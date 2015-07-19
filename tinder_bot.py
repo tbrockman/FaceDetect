@@ -19,6 +19,7 @@ headers = {
 
 fb_id = secret['fb_id']
 fb_auth_token = secret['fb_auth_token']
+path = secret['path']
 
 class User(object):
     def __init__(self, data_dict):
@@ -71,17 +72,19 @@ def auth_token(fb_auth_token, fb_user_id):
     except:
         return None
 
-def getPhoto(auth_token, imageUrl):
+def getUserPhotos(user, auth_token):
     h = headers
     h.update({'X-Auth-Token': auth_token})
-    r = requests.get(imageUrl, headers=h, stream=True)
+    for index, photo in enumerate(user.photos):
+        imageUrl = photo['url']
+        r = requests.get(imageUrl, headers=h, stream=True)
 
-    if r.status_code == 401 or r.status_code == 504:
-        raise Exception('Invalid code')
-        print r.content
+        if r.status_code == 401 or r.status_code == 504:
+            raise Exception('Invalid code')
+            print r.content
 
-    with open('img.png', 'wb') as out_file:
-        shutil.copyfileobj(r.raw, out_file)
+        with open(path + '/' + str(user.user_id) + '_' + str(index) + '.png', 'wb') as out_file:
+            shutil.copyfileobj(r.raw, out_file)
 
 
 def recommendations(auth_token):
@@ -145,9 +148,7 @@ if __name__ == '__main__':
             if not user:
                 break
 
-            for photo in user.photos:
-                # print(photo['url'])
-                getPhoto(fb_auth_token, photo['url'])
+            getUserPhotos(user, token)
 
             try:
 
