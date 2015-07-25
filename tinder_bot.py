@@ -3,23 +3,37 @@ import argparse
 from datetime import datetime
 import json
 from random import randint
+from random import choice
 import requests
 import sys
 from time import sleep
 import shutil
+import os
+import urllib
+import face_detect
+import numpy
 
-with open('secret.json') as data:
-    secret = json.load(data)
+with open('secret.json') as sec:
+    secret = json.load(sec)
+
+with open('config.json') as cfg:
+    config = json.load(cfg)
 
 headers = {
     'app_version': '3',
-    'platform': 'ios',
+    'platform': 'ios'
 }
-
 
 fb_id = secret['fb_id']
 fb_auth_token = secret['fb_auth_token']
-path = secret['path']
+path = config['image_folder_path']
+casc_path = config['cascade_path']
+locations = config['locations']
+faces = {
+    'one_face_only': 0,
+    'no_faces': 0,
+    'more_than_one': 0
+}
 
 class User(object):
     def __init__(self, data_dict):
@@ -42,6 +56,7 @@ class User(object):
         else:
             return x
 
+
     @property
     def age(self):
         raw = self.d.get('birth_date')
@@ -58,6 +73,18 @@ class User(object):
             distance=self.d['distance_mi'],
             photos=self.photos
         )
+
+def facebookLogin():
+    newHeaders = {
+        'User-Agent' : 'Mozilla/5.0'
+    }
+    req = requests.get(
+    'https://www.facebook.com/dialog/oauth?client_id=464891386855067&redirect_uri=https://www.facebook.com/connect/login_success.html&scope=basic_info,email,public_profile,user_about_me,user_activities,user_birthday,user_education_history,user_friends,user_interests,user_likes,user_location,user_photos,user_relationship_details&response_type=token',
+    headers=newHeaders
+    )
+    print(json.dumps(req.json()))
+
+
 
 def auth_token(fb_auth_token, fb_user_id):
     h = headers
@@ -77,15 +104,48 @@ def getUserPhotos(user, auth_token):
     h.update({'X-Auth-Token': auth_token})
     for index, photo in enumerate(user.photos):
         imageUrl = photo['url']
-        r = requests.get(imageUrl, headers=h, stream=True)
 
-        if r.status_code == 401 or r.status_code == 504:
-            raise Exception('Invalid code')
-            print r.content
+        req = urllib.urlopen(imageUrl)
+        arr = numpy.asarray(bytearray(req.read()), dtype=numpy.uint8)
 
-        with open(path + '/' + str(user.user_id) + '_' + str(index) + '.png', 'wb') as out_file:
-            shutil.copyfileobj(r.raw, out_file)
+        filename = str(user.user_id) + '_' + str(index) + '.png'
+        faceCount = face_detect.readImageAndDetectFaces(arr, path, filename, casc_path)
+        if (faceCount > 1):
+            faces['more_than_one'] += 1
+        elif (faceCount == 1):
+            faces['one_face_only'] += 1
+        else:
+            faces['no_faces'] += 1
 
+        print(faces)
+
+def changeLocation(lat, long, auth_token):
+    h = headers
+    h.update({'X-Auth-Token': auth_token})
+    h.update({'content-type': 'application/json'})
+    req = requests.post(
+    'https://api.gotinder.com/user/ping',
+    headers=h,
+    data=json.dumps({"lat": lat, "lon": long})
+    )
+
+    try:
+        return
+    except:
+        return None
+
+def getProfile(auth_token):
+    h = headers
+    h.update({'X-Auth-Token': auth_token})
+    h.update({'content-type': 'application/json'})
+    req = requests.get(
+    'https://api.gotinder.com/profile',
+    headers=h
+    )
+    try:
+        return req.json()
+    except:
+        return None
 
 def recommendations(auth_token):
     h = headers
@@ -97,6 +157,8 @@ def recommendations(auth_token):
 
     if not 'results' in r.json():
         print r.json()
+        sleep(1800)
+        return
 
     for result in r.json()['results']:
         yield User(result)
@@ -120,10 +182,6 @@ def nope(user_id):
         raise
 
 
-def like_or_nope():
-    return 'nope' if randint(1, 100) == 31 else 'like'
-
-
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='Tinder automated bot')
@@ -136,9 +194,17 @@ if __name__ == '__main__':
     matches = 0
     liked = 0
     nopes = 0
+    locationCounter = 1
 
     while True:
         token = auth_token(fb_auth_token, fb_id)
+        locationCounter -= 1
+        if (locationCounter == 0):
+            newCity = choice(locations.keys())
+            locationCounter = randint(1000, 2000)
+            print 'changing location to: ' + newCity
+            changeLocation(locations[newCity]['lat'], locations[newCity]['lon'], token)
+            sleep(5)
 
         if not token:
             print 'could not get token'
@@ -170,5 +236,5 @@ if __name__ == '__main__':
             except:
                 print 'networking error %s' % user.user_id
 
-            s = float(randint(250, 2500) / 1000)
-            sleep(s)
+        s = float(randint(1000, 3000) / 1000)
+        sleep(s)
