@@ -1,6 +1,10 @@
 {
   "image_folder_path" : "images",
-  "cascade_path": "haarcascade_frontalface_default.xml",
+  "face_cascade": "haarcascade_frontalface_default.xml",
+  "eye_cascade":"haarcascade_eye.xml",
+  "nose_cascade":"Nariz.xml",
+  "mouth_cascade":"Mouth.xml",
+  "smile_cascade":"haarcascade_smile.xml",
   "locations" : {
     "Vancouver": {
       "lat": 49.2802092,

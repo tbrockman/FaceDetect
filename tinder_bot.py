@@ -24,16 +24,16 @@ headers = {
     'platform': 'ios'
 }
 
-fb_id = secret['fb_id']
-fb_auth_token = secret['fb_auth_token']
-path = config['image_folder_path']
-casc_path = config['cascade_path']
-locations = config['locations']
 faces = {
     'one_face_only': 0,
     'no_faces': 0,
     'more_than_one': 0
 }
+
+fb_id = secret['fb_id']
+fb_auth_token = secret['fb_auth_token']
+face = config['face_cascade']
+locations = config['locations']
 
 class User(object):
     def __init__(self, data_dict):
@@ -109,7 +109,7 @@ def getUserPhotos(user, auth_token):
         arr = numpy.asarray(bytearray(req.read()), dtype=numpy.uint8)
 
         filename = str(user.user_id) + '_' + str(index) + '.png'
-        faceCount = face_detect.readImageAndDetectFaces(arr, path, filename, casc_path)
+        faceCount = face_detect.readImageAndDetectFaces(arr, path, filename, face)
         if (faceCount > 1):
             faces['more_than_one'] += 1
         elif (faceCount == 1):

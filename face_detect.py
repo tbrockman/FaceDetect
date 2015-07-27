@@ -2,6 +2,7 @@ import cv2
 import sys
 import os
 import numpy
+import json
 
 def readImageAndDetectFaces(imageBuf, basePath, filename, cascPath):
     faces = []
@@ -12,14 +13,14 @@ def readImageAndDetectFaces(imageBuf, basePath, filename, cascPath):
     x = 0.75
     scale = 2 ** x
     # Detect faces in the image
-    faces = detectFaces(gray, scale, cascPath)
+    faces = detectCascade(gray, scale, (120, 120), (600, 600), cascPath)
     count = 0
 
     while (len(faces) != 1 and count < 29):
         x -= 0.025
         scale = 2 ** x
         count += 1
-        faces = detectFaces(gray, scale, cascPath)
+        faces = detectCascade(gray, scale, (120, 120), (600, 600), cascPath)
 
     if (len(faces) == 1):
         for (x, y, w, h) in faces:
@@ -36,16 +37,44 @@ def readImageAndDetectFaces(imageBuf, basePath, filename, cascPath):
     # maybe when we have an isAttractive function
     # else:
 
+def readLocalImagesAndDetect(path, config):
+    for filename in os.listdir(path):
+        readImageAndDetectFeatures(path, filename, config)
 
 
-def detectFaces(gray, scale, cascPath):
-    faceCascade = cv2.CascadeClassifier(cascPath)
-    return faceCascade.detectMultiScale(
+def readImageAndDetectFeatures(path, filename, config):
+    image = cv2.imread(path + '/' + filename, -1)
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    detectFeatures(image, gray, 1.1, config)
+
+def detectFeatures(regular, gray, scale, config):
+    eyes = detectCascade(gray, scale, (5,5), (35, 35), config['eye_cascade'])
+    for (ex,ey,ew,eh) in eyes:
+        print 'drawing rect in eyes'
+        cv2.rectangle(regular,(ex,ey),(ex+ew,ey+eh),(0,255,0),2)
+    nose = detectCascade(gray, scale, (5,5), (35, 35), config['nose_cascade'])
+    for (ex,ey,ew,eh) in nose:
+        print 'drawing rect in nose'
+        cv2.rectangle(regular,(ex,ey),(ex+ew,ey+eh),(255,0,0),2)
+    mouth = detectCascade(gray, scale, (5,5), (45, 45), config['mouth_cascade'])
+    for (ex,ey,ew,eh) in mouth:
+        print 'drawing rect in mouth'
+        cv2.rectangle(regular,(ex,ey),(ex+ew,ey+eh),(0,0,255),2)
+    smile = detectCascade(gray, scale, (5,5), (40, 40), config['smile_cascade'])
+    for (ex,ey,ew,eh) in smile:
+        print 'drawing rect in smile'
+        cv2.rectangle(regular,(ex,ey),(ex+ew,ey+eh),(133,133,133),2)
+    cv2.imshow('img',regular)
+    cv2.waitKey(0)
+
+def detectCascade(gray, scale, minSize, maxSize, cascPath):
+    cascade = cv2.CascadeClassifier(cascPath)
+    return cascade.detectMultiScale(
         gray,
         scaleFactor=scale,
         minNeighbors=5,
-        minSize=(120, 120),
-        maxSize=(600, 600),
+        minSize=minSize,
+        maxSize=maxSize,
         flags = cv2.CASCADE_SCALE_IMAGE
     )
 
@@ -54,31 +83,7 @@ def isAttractive(face):
 
 if __name__ == '__main__':
 
-    # Get user supplied values
-    imagePath = sys.argv[1]
-    cascPath = sys.argv[2]
+    with open('config.json') as cfg:
+        config = json.load(cfg)
 
-    # Create the haar cascade
-    faceCascade = cv2.CascadeClassifier(cascPath)
-
-    # Read the image
-    image = cv2.imread(imagePath)
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-
-    # Detect faces in the image
-    faces = faceCascade.detectMultiScale(
-        gray,
-        scaleFactor=1.1,
-        minNeighbors=5,
-        minSize=(30, 30),
-        flags = cv2.CASCADE_SCALE_IMAGE
-    )
-
-    print "Found {0} faces!".format(len(faces))
-
-    # Draw a rectangle around the faces
-    for (x, y, w, h) in faces:
-        cv2.rectangle(image, (x, y), (x+w, y+h), (0, 255, 0), 2)
-
-    cv2.imshow("Faces found", image)
-    cv2.waitKey(0)
+    readLocalImagesAndDetect('F:\Workspace\FaceDetect\images\detected', config)
