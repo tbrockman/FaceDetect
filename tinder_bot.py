@@ -12,6 +12,9 @@ import os
 import urllib
 import face_detect
 import numpy
+import organize
+import random
+import cv2
 
 with open('secret.json') as sec:
     secret = json.load(sec)
@@ -34,6 +37,9 @@ fb_id = secret['fb_id']
 fb_auth_token = secret['fb_auth_token']
 face = config['face_cascade']
 locations = config['locations']
+path = config['image_folder_path']
+
+onlineLearning = True
 
 class User(object):
     def __init__(self, data_dict):
@@ -98,6 +104,35 @@ def auth_token(fb_auth_token, fb_user_id):
         return req.json()['token']
     except:
         return None
+
+def getUserPhotosOnline(user, auth_token):
+    h = headers
+    h.update({'X-Auth-Token': auth_token})
+    for index, photo in enumerate(user.photos):
+        imageUrl = photo['url']
+        r = requests.get(imageUrl, headers=h, stream=True)
+
+        if r.status_code == 401 or r.status_code == 504:
+            raise Exception('Invalid code')
+            print r.content
+
+        if not os.path.exists(path + '/' + str(user.user_id)):
+            os.makedirs(path + '/' + str(user.user_id))
+
+        with open(path + '/' + str(user.user_id) + '/' + str(index) + '.png', 'wb') as out_file:
+            shutil.copyfileobj(r.raw, out_file)
+
+    images = []
+    for filename in os.listdir(path + '/' + str(user.user_id)):
+        image = {
+            'filename': filename,
+            'path': path + '/' + str(user.user_id)
+        }
+        images.append(image)
+
+    liked = organize.browseImages(images, path, user.user_id)
+    return liked
+
 
 def getUserPhotos(user, auth_token):
     h = headers
@@ -199,12 +234,12 @@ if __name__ == '__main__':
     while True:
         token = auth_token(fb_auth_token, fb_id)
         locationCounter -= 1
-        if (locationCounter == 0):
-            newCity = choice(locations.keys())
-            locationCounter = randint(1000, 2000)
-            print 'changing location to: ' + newCity
-            changeLocation(locations[newCity]['lat'], locations[newCity]['lon'], token)
-            sleep(5)
+        # if (locationCounter == 0):
+        #     newCity = choice(locations.keys())
+        #     locationCounter = randint(1000, 2000)
+        #     print 'changing location to: ' + newCity
+        #     changeLocation(locations[newCity]['lat'], locations[newCity]['lon'], token)
+        #     sleep(5)
 
         if not token:
             print 'could not get token'
@@ -214,27 +249,24 @@ if __name__ == '__main__':
             if not user:
                 break
 
-            getUserPhotos(user, token)
+            liked = getUserPhotosOnline(user, token)
+            if liked:
+                like(user.user_id)
+            else:
+                nope(user.user_id)
 
-            try:
+            # try:
+            #
+            #     choose = random.choice([True, False, False, False])
+            #     # choose = face_detect.isAttractice(face)
+            #
+            #     if choose:
+            #         like(user.user_id)
+            #     else:
+            #         nope(user.user_id)
+            #
+            # except:
+            #     print 'networking error %s' % user.user_id
 
-                break
-                # action = like_or_nope()
-                # if action == 'like':
-                #     print ' -> Like'
-                #     match = like(user.user_id)
-                #     if match:
-                #         print ' -> Match!'
-                #
-                #     with open('./liked.txt', 'a') as f:
-                #         f.write(user.user_id + u'\n')
-                #
-                # else:
-                #     print ' -> random nope :('
-                #     nope(user.user_id)
-
-            except:
-                print 'networking error %s' % user.user_id
-
-        s = float(randint(1000, 3000) / 1000)
-        sleep(s)
+        #s = float(randint(1000, 3000) / 1000)
+        #sleep(s)
