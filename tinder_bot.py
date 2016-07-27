@@ -22,6 +22,9 @@ with open('secret.json') as sec:
 with open('config.json') as cfg:
     config = json.load(cfg)
 
+with open('locations.json') as cfg:
+    locations = json.load(cfg)
+
 headers = {
     'app_version': '3',
     'platform': 'ios'
@@ -36,7 +39,6 @@ faces = {
 fb_id = secret['fb_id']
 fb_auth_token = secret['fb_auth_token']
 face = config['face_cascade']
-locations = config['locations']
 path = config['image_folder_path']
 
 onlineLearning = True
@@ -234,26 +236,40 @@ if __name__ == '__main__':
     while True:
         token = auth_token(fb_auth_token, fb_id)
         locationCounter -= 1
-        # if (locationCounter == 0):
-        #     newCity = choice(locations.keys())
-        #     locationCounter = randint(1000, 2000)
-        #     print 'changing location to: ' + newCity
-        #     changeLocation(locations[newCity]['lat'], locations[newCity]['lon'], token)
-        #     sleep(5)
+        if (locationCounter == 0):
+            #newCity = choice(locations.keys())
+            # newCity = 'Edmonton'
+            # locationCounter = randint(1000, 2000)
+            # print 'changing location to: ' + newCity
+            # changeLocation(locations[newCity]['lat'], locations[newCity]['lon'], token)
+            sleep(5)
 
         if not token:
             print 'could not get token'
             sys.exit(0)
 
-        for user in recommendations(token):
+        retrievedUsers = recommedations(token)
+
+        if len(retrievedUsers == 0):
+            newCity = choice(locations.keys())
+            print 'Run out of results, changing location to: ' + str(newCity)
+            changeLocation(locations[newCity]['lat'], locations[newCity]['lon'], token)
+
+        for user in retrievedUsers:
             if not user:
                 break
 
-            liked = getUserPhotosOnline(user, token)
-            if liked:
-                like(user.user_id)
-            else:
+            try:
+                liked = getUserPhotosOnline(user, token)
+
+                if liked:
+                    like(user.user_id)
+                else:
+                    nope(user.user_id)
+            except:
+                print 'error, skipping'
                 nope(user.user_id)
+                continue
 
             # try:
             #

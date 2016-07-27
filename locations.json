@@ -1,0 +1,4709 @@
+{
+    "": {
+        "ident": "WIMM", 
+        "lon": "98.885278", 
+        "iso_country": "ID", 
+        "elevation_ft": "23", 
+        "iso_region": "ID-SU", 
+        "lat": "3.642222", 
+        "continent": "AS"
+    }, 
+    "Bologna": {
+        "ident": "LIPE", 
+        "lon": "11.2887", 
+        "iso_country": "IT", 
+        "elevation_ft": "123", 
+        "iso_region": "IT-45", 
+        "lat": "44.5354", 
+        "continent": "EU"
+    }, 
+    "Torino": {
+        "ident": "LIMF", 
+        "lon": "7.6496300697", 
+        "iso_country": "IT", 
+        "elevation_ft": "989", 
+        "iso_region": "IT-21", 
+        "lat": "45.2008018494", 
+        "continent": "EU"
+    }, 
+    "Gaziantep": {
+        "ident": "LTAJ", 
+        "lon": "37.4786987305", 
+        "iso_country": "TR", 
+        "elevation_ft": "2315", 
+        "iso_region": "TR-27", 
+        "lat": "36.9472007751", 
+        "continent": "AS"
+    }, 
+    "Toledo": {
+        "ident": "KTOL", 
+        "lon": "-83.80780029", 
+        "iso_country": "US", 
+        "elevation_ft": "683", 
+        "iso_region": "US-OH", 
+        "lat": "41.58679962", 
+        "continent": "NA"
+    }, 
+    "Enfidha": {
+        "ident": "TN-0002", 
+        "lon": "10.438611", 
+        "iso_country": "TN", 
+        "elevation_ft": "21", 
+        "iso_region": "TN-51", 
+        "lat": "36.075833", 
+        "continent": "AF"
+    }, 
+    "Liverpool": {
+        "ident": "EGGP", 
+        "lon": "-2.8497200012", 
+        "iso_country": "GB", 
+        "elevation_ft": "80", 
+        "iso_region": "GB-ENG", 
+        "lat": "53.3335990906", 
+        "continent": "EU"
+    }, 
+    "Columbia": {
+        "ident": "KCAE", 
+        "lon": "-81.1194992065", 
+        "iso_country": "US", 
+        "elevation_ft": "236", 
+        "iso_region": "US-SC", 
+        "lat": "33.9388008118", 
+        "continent": "NA"
+    }, 
+    "Verona": {
+        "ident": "LIPX", 
+        "lon": "10.8885", 
+        "iso_country": "IT", 
+        "elevation_ft": "239", 
+        "iso_region": "IT-34", 
+        "lat": "45.395699", 
+        "continent": "EU"
+    }, 
+    "Palma De Mallorca": {
+        "ident": "LEPA", 
+        "lon": "2.7388100624", 
+        "iso_country": "ES", 
+        "elevation_ft": "27", 
+        "iso_region": "ES-PM", 
+        "lat": "39.551700592", 
+        "continent": "EU"
+    }, 
+    "Ad Dammam": {
+        "ident": "OEDF", 
+        "lon": "49.7979011536", 
+        "iso_country": "SA", 
+        "elevation_ft": "72", 
+        "iso_region": "SA-04", 
+        "lat": "26.471200943", 
+        "continent": "AS"
+    }, 
+    "Atlanta": {
+        "ident": "KATL", 
+        "lon": "-84.4281005859", 
+        "iso_country": "US", 
+        "elevation_ft": "1026", 
+        "iso_region": "US-GA", 
+        "lat": "33.6366996765", 
+        "continent": "NA"
+    }, 
+    "Bergamo": {
+        "ident": "LIME", 
+        "lon": "9.7041702271", 
+        "iso_country": "IT", 
+        "elevation_ft": "782", 
+        "iso_region": "IT-25", 
+        "lat": "45.6739006042", 
+        "continent": "EU"
+    }, 
+    "Nanning": {
+        "ident": "ZGNN", 
+        "lon": "108.1719970703", 
+        "iso_country": "CN", 
+        "elevation_ft": "421", 
+        "iso_region": "CN-45", 
+        "lat": "22.6082992554", 
+        "continent": "AS"
+    }, 
+    "Accra": {
+        "ident": "DGAA", 
+        "lon": "-0.1667860001", 
+        "iso_country": "GH", 
+        "elevation_ft": "205", 
+        "iso_region": "GH-AA", 
+        "lat": "5.6051898003", 
+        "continent": "AF"
+    }, 
+    "Belogorsk": {
+        "ident": "RU-2244", 
+        "lon": "128.4450073242", 
+        "iso_country": "RU", 
+        "elevation_ft": "771", 
+        "iso_region": "RU-AMU", 
+        "lat": "51.1699981689", 
+        "continent": "AS"
+    }, 
+    "Harbin": {
+        "ident": "ZYHB", 
+        "lon": "126.25", 
+        "iso_country": "CN", 
+        "elevation_ft": "457", 
+        "iso_region": "CN-23", 
+        "lat": "45.6234016418", 
+        "continent": "AS"
+    }, 
+    "Exeter": {
+        "ident": "EGTE", 
+        "lon": "-3.4138898849", 
+        "iso_country": "GB", 
+        "elevation_ft": "102", 
+        "iso_region": "GB-ENG", 
+        "lat": "50.7344017029", 
+        "continent": "EU"
+    }, 
+    "Charlotte": {
+        "ident": "KCLT", 
+        "lon": "-80.9430999756", 
+        "iso_country": "US", 
+        "elevation_ft": "748", 
+        "iso_region": "US-NC", 
+        "lat": "35.2140007019", 
+        "continent": "NA"
+    }, 
+    "Lakenheath": {
+        "ident": "EGUL", 
+        "lon": "0.5609999895", 
+        "iso_country": "GB", 
+        "elevation_ft": "32", 
+        "iso_region": "GB-ENG", 
+        "lat": "52.4093017578", 
+        "continent": "EU"
+    }, 
+    "Brisbane": {
+        "ident": "YBBN", 
+        "lon": "153.1170043945", 
+        "iso_country": "AU", 
+        "elevation_ft": "13", 
+        "iso_region": "AU-QLD", 
+        "lat": "-27.3841991425", 
+        "continent": "OC"
+    }, 
+    "Astana": {
+        "ident": "UACC", 
+        "lon": "71.4669036865", 
+        "iso_country": "KZ", 
+        "elevation_ft": "1165", 
+        "iso_region": "KZ-AKM", 
+        "lat": "51.0222015381", 
+        "continent": "AS"
+    }, 
+    "Edmonton": {
+        "ident": "CYEG", 
+        "lon": "-113.580001831", 
+        "iso_country": "CA", 
+        "elevation_ft": "2373", 
+        "iso_region": "CA-AB", 
+        "lat": "53.3097000122", 
+        "continent": "NA"
+    }, 
+    "Angeles City": {
+        "ident": "RPLC", 
+        "lon": "120.559997559", 
+        "iso_country": "PH", 
+        "elevation_ft": "484", 
+        "iso_region": "PH-PAM", 
+        "lat": "15.1859998703", 
+        "continent": "AS"
+    }, 
+    "Nottingham": {
+        "ident": "EGNX", 
+        "lon": "-1.3280600309", 
+        "iso_country": "GB", 
+        "elevation_ft": "306", 
+        "iso_region": "GB-ENG", 
+        "lat": "52.8311004639", 
+        "continent": "EU"
+    }, 
+    "Seattle": {
+        "ident": "KSEA", 
+        "lon": "-122.3089981079", 
+        "iso_country": "US", 
+        "elevation_ft": "433", 
+        "iso_region": "US-WA", 
+        "lat": "47.4490013123", 
+        "continent": "NA"
+    }, 
+    "Genova": {
+        "ident": "LIMJ", 
+        "lon": "8.8374996185", 
+        "iso_country": "IT", 
+        "elevation_ft": "13", 
+        "iso_region": "IT-42", 
+        "lat": "44.4132995605", 
+        "continent": "EU"
+    }, 
+    "Vilnius": {
+        "ident": "EYVI", 
+        "lon": "25.2858009338", 
+        "iso_country": "LT", 
+        "elevation_ft": "646", 
+        "iso_region": "LT-VL", 
+        "lat": "54.6341018677", 
+        "continent": "EU"
+    }, 
+    "Rostov-on-Don": {
+        "ident": "URRR", 
+        "lon": "39.8180999756", 
+        "iso_country": "RU", 
+        "elevation_ft": "280", 
+        "iso_region": "RU-ROS", 
+        "lat": "47.2582015991", 
+        "continent": "EU"
+    }, 
+    "Lipetsk": {
+        "ident": "RU-0016", 
+        "lon": "39.4449996948", 
+        "iso_country": "RU", 
+        "elevation_ft": "636", 
+        "iso_region": "RU-LIP", 
+        "lat": "52.6349983215", 
+        "continent": "EU"
+    }, 
+    "Trabzon": {
+        "ident": "LTCG", 
+        "lon": "39.7896995544", 
+        "iso_country": "TR", 
+        "elevation_ft": "104", 
+        "iso_region": "TR-61", 
+        "lat": "40.995098114", 
+        "continent": "AS"
+    }, 
+    "Denver": {
+        "ident": "KDEN", 
+        "lon": "-104.672996521", 
+        "iso_country": "US", 
+        "elevation_ft": "5431", 
+        "iso_region": "US-CO", 
+        "lat": "39.8616981506", 
+        "continent": "NA"
+    }, 
+    "Amritsar": {
+        "ident": "VIAR", 
+        "lon": "74.7973022461", 
+        "iso_country": "IN", 
+        "elevation_ft": "756", 
+        "iso_region": "IN-PB", 
+        "lat": "31.7096004486", 
+        "continent": "AS"
+    }, 
+    "Ho Chi Minh City": {
+        "ident": "VVTS", 
+        "lon": "106.652000427", 
+        "iso_country": "VN", 
+        "elevation_ft": "33", 
+        "iso_region": "VN-23", 
+        "lat": "10.8187999725", 
+        "continent": "AS"
+    }, 
+    "Curitiba": {
+        "ident": "SBCT", 
+        "lon": "-49.1758003235", 
+        "iso_country": "BR", 
+        "elevation_ft": "2988", 
+        "iso_region": "BR-PR", 
+        "lat": "-25.5284996033", 
+        "continent": "SA"
+    }, 
+    "Honolulu": {
+        "ident": "PHNL", 
+        "lon": "-157.9219970703", 
+        "iso_country": "US", 
+        "elevation_ft": "13", 
+        "iso_region": "US-HI", 
+        "lat": "21.3187007904", 
+        "continent": "NA"
+    }, 
+    "Kunsan": {
+        "ident": "RKJK", 
+        "lon": "126.6159973145", 
+        "iso_country": "KR", 
+        "elevation_ft": "29", 
+        "iso_region": "KR-45", 
+        "lat": "35.9038009644", 
+        "continent": "AS"
+    }, 
+    "San Diego": {
+        "ident": "KSAN", 
+        "lon": "-117.190002441", 
+        "iso_country": "US", 
+        "elevation_ft": "17", 
+        "iso_region": "US-CA", 
+        "lat": "32.7336006165", 
+        "continent": "NA"
+    }, 
+    "Sarasota/Bradenton": {
+        "ident": "KSRQ", 
+        "lon": "-82.554397583", 
+        "iso_country": "US", 
+        "elevation_ft": "30", 
+        "iso_region": "US-FL", 
+        "lat": "27.3953990936", 
+        "continent": "NA"
+    }, 
+    "Daytona Beach": {
+        "ident": "KDAB", 
+        "lon": "-81.058098", 
+        "iso_country": "US", 
+        "elevation_ft": "34", 
+        "iso_region": "US-FL", 
+        "lat": "29.179899", 
+        "continent": "NA"
+    }, 
+    "Boise": {
+        "ident": "KBOI", 
+        "lon": "-116.2229996", 
+        "iso_country": "US", 
+        "elevation_ft": "2871", 
+        "iso_region": "US-ID", 
+        "lat": "43.56439972", 
+        "continent": "NA"
+    }, 
+    "Adjuntas": {
+        "ident": "PR20", 
+        "lon": "-66.7568969727", 
+        "iso_country": "PR", 
+        "elevation_ft": "2340", 
+        "iso_region": "PR-U-A", 
+        "lat": "18.1802005768", 
+        "continent": "NA"
+    }, 
+    "Tabriz": {
+        "ident": "OITT", 
+        "lon": "46.2350006104", 
+        "iso_country": "IR", 
+        "elevation_ft": "4459", 
+        "iso_region": "IR-01", 
+        "lat": "38.1338996887", 
+        "continent": "AS"
+    }, 
+    "Colorado Springs": {
+        "ident": "KCOS", 
+        "lon": "-104.7009963989", 
+        "iso_country": "US", 
+        "elevation_ft": "6187", 
+        "iso_region": "US-CO", 
+        "lat": "38.8058013916", 
+        "continent": "NA"
+    }, 
+    "Eindhoven": {
+        "ident": "EHEH", 
+        "lon": "5.3745298386", 
+        "iso_country": "NL", 
+        "elevation_ft": "74", 
+        "iso_region": "NL-NB", 
+        "lat": "51.4500999451", 
+        "continent": "EU"
+    }, 
+    "Stuttgart": {
+        "ident": "EDDS", 
+        "lon": "9.2219600678", 
+        "iso_country": "DE", 
+        "elevation_ft": "1276", 
+        "iso_region": "DE-BW", 
+        "lat": "48.6898994446", 
+        "continent": "EU"
+    }, 
+    "Chennai": {
+        "ident": "VOMM", 
+        "lon": "80.1692962646", 
+        "iso_country": "IN", 
+        "elevation_ft": "52", 
+        "iso_region": "IN-TN", 
+        "lat": "12.9900054932", 
+        "continent": "AS"
+    }, 
+    "Halifax": {
+        "ident": "CYHZ", 
+        "lon": "-63.5085983276", 
+        "iso_country": "CA", 
+        "elevation_ft": "477", 
+        "iso_region": "CA-NS", 
+        "lat": "44.8807983398", 
+        "continent": "NA"
+    }, 
+    "M\u00fcnster": {
+        "ident": "EDDG", 
+        "lon": "7.6848301888", 
+        "iso_country": "DE", 
+        "elevation_ft": "160", 
+        "iso_region": "DE-NW", 
+        "lat": "52.134601593", 
+        "continent": "EU"
+    }, 
+    "Zurich": {
+        "ident": "LSZH", 
+        "lon": "8.5491695404", 
+        "iso_country": "CH", 
+        "elevation_ft": "1416", 
+        "iso_region": "CH-ZH", 
+        "lat": "47.4646987915", 
+        "continent": "EU"
+    }, 
+    "Hangzhou": {
+        "ident": "ZSHC", 
+        "lon": "120.4339981079", 
+        "iso_country": "CN", 
+        "elevation_ft": "23", 
+        "iso_region": "CN-33", 
+        "lat": "30.2294998169", 
+        "continent": "AS"
+    }, 
+    "Las Vegas": {
+        "ident": "KLAS", 
+        "lon": "-115.1520004", 
+        "iso_country": "US", 
+        "elevation_ft": "2181", 
+        "iso_region": "US-NV", 
+        "lat": "36.08010101", 
+        "continent": "NA"
+    }, 
+    "Abu Dhabi": {
+        "ident": "OMAA", 
+        "lon": "54.6511001587", 
+        "iso_country": "AE", 
+        "elevation_ft": "88", 
+        "iso_region": "AE-AZ", 
+        "lat": "24.4330005646", 
+        "continent": "AS"
+    }, 
+    "Doncaster": {
+        "ident": "EGCN", 
+        "lon": "-1.0106563568", 
+        "iso_country": "GB", 
+        "elevation_ft": "55", 
+        "iso_region": "GB-ENG", 
+        "lat": "53.4805378105", 
+        "continent": "EU"
+    }, 
+    "Saint Martin": {
+        "ident": "TNCM", 
+        "lon": "-63.1088981628", 
+        "iso_country": "SX", 
+        "elevation_ft": "13", 
+        "iso_region": "SX-U-A", 
+        "lat": "18.0410003662", 
+        "continent": "NA"
+    }, 
+    "Istanbul": {
+        "ident": "LTFJ", 
+        "lon": "29.3092002869", 
+        "iso_country": "TR", 
+        "elevation_ft": "312", 
+        "iso_region": "TR-34", 
+        "lat": "40.898601532", 
+        "continent": "AS"
+    }, 
+    "Pisa": {
+        "ident": "LIRP", 
+        "lon": "10.3927001953", 
+        "iso_country": "IT", 
+        "elevation_ft": "6", 
+        "iso_region": "IT-52", 
+        "lat": "43.6838989258", 
+        "continent": "EU"
+    }, 
+    "Richmond": {
+        "ident": "KRIC", 
+        "lon": "-77.3197021484", 
+        "iso_country": "US", 
+        "elevation_ft": "167", 
+        "iso_region": "US-VA", 
+        "lat": "37.5051994324", 
+        "continent": "NA"
+    }, 
+    "Louisville": {
+        "ident": "KSDF", 
+        "lon": "-85.736000061", 
+        "iso_country": "US", 
+        "elevation_ft": "501", 
+        "iso_region": "US-KY", 
+        "lat": "38.1744003296", 
+        "continent": "NA"
+    }, 
+    "Clovis": {
+        "ident": "KCVS", 
+        "lon": "-103.321998596", 
+        "iso_country": "US", 
+        "elevation_ft": "4295", 
+        "iso_region": "US-NM", 
+        "lat": "34.3828010559", 
+        "continent": "NA"
+    }, 
+    "Manila": {
+        "ident": "RPLL", 
+        "lon": "121.019996643", 
+        "iso_country": "PH", 
+        "elevation_ft": "75", 
+        "iso_region": "PH-U-A", 
+        "lat": "14.508600235", 
+        "continent": "AS"
+    }, 
+    "Nice": {
+        "ident": "LFMN", 
+        "lon": "7.2158699036", 
+        "iso_country": "FR", 
+        "elevation_ft": "12", 
+        "iso_region": "FR-U", 
+        "lat": "43.6584014893", 
+        "continent": "EU"
+    }, 
+    "Columbus": {
+        "ident": "KLCK", 
+        "lon": "-82.927803", 
+        "iso_country": "US", 
+        "elevation_ft": "744", 
+        "iso_region": "US-OH", 
+        "lat": "39.813801", 
+        "continent": "NA"
+    }, 
+    "Indianapolis": {
+        "ident": "KIND", 
+        "lon": "-86.294403", 
+        "iso_country": "US", 
+        "elevation_ft": "797", 
+        "iso_region": "US-IN", 
+        "lat": "39.7173", 
+        "continent": "NA"
+    }, 
+    "San Jos\u00e9 del Cabo": {
+        "ident": "MMSD", 
+        "lon": "-109.7210006714", 
+        "iso_country": "MX", 
+        "elevation_ft": "374", 
+        "iso_region": "MX-BCS", 
+        "lat": "23.1518001556", 
+        "continent": "NA"
+    }, 
+    "South Bend": {
+        "ident": "KSBN", 
+        "lon": "-86.3172988892", 
+        "iso_country": "US", 
+        "elevation_ft": "799", 
+        "iso_region": "US-IN", 
+        "lat": "41.7086982727", 
+        "continent": "NA"
+    }, 
+    "Cork": {
+        "ident": "EICK", 
+        "lon": "-8.491109848", 
+        "iso_country": "IE", 
+        "elevation_ft": "502", 
+        "iso_region": "IE-C", 
+        "lat": "51.8413009644", 
+        "continent": "EU"
+    }, 
+    "Memphis": {
+        "ident": "KMEM", 
+        "lon": "-89.9766998291", 
+        "iso_country": "US", 
+        "elevation_ft": "341", 
+        "iso_region": "US-TN", 
+        "lat": "35.0424003601", 
+        "continent": "NA"
+    }, 
+    "Ujung Pandang-Celebes Island": {
+        "ident": "WAAA", 
+        "lon": "119.5540008545", 
+        "iso_country": "ID", 
+        "elevation_ft": "47", 
+        "iso_region": "ID-SN", 
+        "lat": "-5.0616297722", 
+        "continent": "AS"
+    }, 
+    "Shanghai": {
+        "ident": "ZSSS", 
+        "lon": "121.3359985352", 
+        "iso_country": "CN", 
+        "elevation_ft": "10", 
+        "iso_region": "CN-31", 
+        "lat": "31.1979007721", 
+        "continent": "AS"
+    }, 
+    "Kazan": {
+        "ident": "UWKG", 
+        "lon": "49.1333007813", 
+        "iso_country": "RU", 
+        "elevation_ft": "213", 
+        "iso_region": "RU-TA", 
+        "lat": "55.8666992188", 
+        "continent": "EU"
+    }, 
+    "Hyderabad": {
+        "ident": "VOHS", 
+        "lon": "78.4298553467", 
+        "iso_country": "IN", 
+        "elevation_ft": "2024", 
+        "iso_region": "IN-TG", 
+        "lat": "17.2313175201", 
+        "continent": "AS"
+    }, 
+    "Orlando": {
+        "ident": "KSFB", 
+        "lon": "-81.2375030518", 
+        "iso_country": "US", 
+        "elevation_ft": "55", 
+        "iso_region": "US-FL", 
+        "lat": "28.7775993347", 
+        "continent": "NA"
+    }, 
+    "Madison": {
+        "ident": "KMSN", 
+        "lon": "-89.3375015259", 
+        "iso_country": "US", 
+        "elevation_ft": "887", 
+        "iso_region": "US-WI", 
+        "lat": "43.1399002075", 
+        "continent": "NA"
+    }, 
+    "Guiyang": {
+        "ident": "ZUGY", 
+        "lon": "106.8010025024", 
+        "iso_country": "CN", 
+        "elevation_ft": "3736", 
+        "iso_region": "CN-52", 
+        "lat": "26.5384998322", 
+        "continent": "AS"
+    }, 
+    "Yerevan": {
+        "ident": "UDYZ", 
+        "lon": "44.3959007263", 
+        "iso_country": "AM", 
+        "elevation_ft": "2838", 
+        "iso_region": "AM-ER", 
+        "lat": "40.1473007202", 
+        "continent": "AS"
+    }, 
+    "Canc\u00fan": {
+        "ident": "MMUN", 
+        "lon": "-86.8770980835", 
+        "iso_country": "MX", 
+        "elevation_ft": "22", 
+        "iso_region": "MX-ROO", 
+        "lat": "21.0365009308", 
+        "continent": "NA"
+    }, 
+    "Maastricht": {
+        "ident": "EHBK", 
+        "lon": "5.7701401711", 
+        "iso_country": "NL", 
+        "elevation_ft": "375", 
+        "iso_region": "NL-LI", 
+        "lat": "50.9117012024", 
+        "continent": "EU"
+    }, 
+    "Birmingham": {
+        "ident": "KBHM", 
+        "lon": "-86.75350189", 
+        "iso_country": "US", 
+        "elevation_ft": "650", 
+        "iso_region": "US-AL", 
+        "lat": "33.56290054", 
+        "continent": "NA"
+    }, 
+    "Hermosillo": {
+        "ident": "MMHO", 
+        "lon": "-111.047996521", 
+        "iso_country": "MX", 
+        "elevation_ft": "627", 
+        "iso_region": "MX-SON", 
+        "lat": "29.0958995819", 
+        "continent": "NA"
+    }, 
+    "Boston": {
+        "ident": "KBOS", 
+        "lon": "-71.00520325", 
+        "iso_country": "US", 
+        "elevation_ft": "20", 
+        "iso_region": "US-MA", 
+        "lat": "42.36429977", 
+        "continent": "NA"
+    }, 
+    "Oklahoma City": {
+        "ident": "KTIK", 
+        "lon": "-97.3865966797", 
+        "iso_country": "US", 
+        "elevation_ft": "1291", 
+        "iso_region": "US-OK", 
+        "lat": "35.4146995544", 
+        "continent": "NA"
+    }, 
+    "Surabaya": {
+        "ident": "WARR", 
+        "lon": "112.7870025635", 
+        "iso_country": "ID", 
+        "elevation_ft": "9", 
+        "iso_region": "ID-JI", 
+        "lat": "-7.3798298836", 
+        "continent": "AS"
+    }, 
+    "Baden-Baden": {
+        "ident": "EDSB", 
+        "lon": "8.0804996491", 
+        "iso_country": "DE", 
+        "elevation_ft": "408", 
+        "iso_region": "DE-BW", 
+        "lat": "48.7793998718", 
+        "continent": "EU"
+    }, 
+    "West Palm Beach": {
+        "ident": "KPBI", 
+        "lon": "-80.0955963135", 
+        "iso_country": "US", 
+        "elevation_ft": "19", 
+        "iso_region": "US-FL", 
+        "lat": "26.6832008362", 
+        "continent": "NA"
+    }, 
+    "Bandar Seri Begawan": {
+        "ident": "WBSB", 
+        "lon": "114.9280014038", 
+        "iso_country": "BN", 
+        "elevation_ft": "73", 
+        "iso_region": "BN-BM", 
+        "lat": "4.9442000389", 
+        "continent": "AS"
+    }, 
+    "St Louis": {
+        "ident": "KSUS", 
+        "lon": "-90.6520004272", 
+        "iso_country": "US", 
+        "elevation_ft": "463", 
+        "iso_region": "US-MO", 
+        "lat": "38.6621017456", 
+        "continent": "NA"
+    }, 
+    "Gda\u0144sk": {
+        "ident": "EPGD", 
+        "lon": "18.4661998749", 
+        "iso_country": "PL", 
+        "elevation_ft": "489", 
+        "iso_region": "PL-PM", 
+        "lat": "54.3776016235", 
+        "continent": "EU"
+    }, 
+    "Dresden": {
+        "ident": "EDDC", 
+        "lon": "13.76720047", 
+        "iso_country": "DE", 
+        "elevation_ft": "755", 
+        "iso_region": "DE-SN", 
+        "lat": "51.1328010559", 
+        "continent": "EU"
+    }, 
+    "Phoenix": {
+        "ident": "KPHX", 
+        "lon": "-112.0120010376", 
+        "iso_country": "US", 
+        "elevation_ft": "1135", 
+        "iso_region": "US-AZ", 
+        "lat": "33.434299469", 
+        "continent": "NA"
+    }, 
+    "Zagreb": {
+        "ident": "LDZA", 
+        "lon": "16.0687999725", 
+        "iso_country": "HR", 
+        "elevation_ft": "353", 
+        "iso_region": "HR-21", 
+        "lat": "45.7429008484", 
+        "continent": "EU"
+    }, 
+    "Munich": {
+        "ident": "EDDM", 
+        "lon": "11.7861003876", 
+        "iso_country": "DE", 
+        "elevation_ft": "1487", 
+        "iso_region": "DE-BY", 
+        "lat": "48.3538017273", 
+        "continent": "EU"
+    }, 
+    "Glasgow": {
+        "ident": "EGPF", 
+        "lon": "-4.4330601692", 
+        "iso_country": "GB", 
+        "elevation_ft": "26", 
+        "iso_region": "GB-SCT", 
+        "lat": "55.8718986511", 
+        "continent": "EU"
+    }, 
+    "Dallas-Fort Worth": {
+        "ident": "KDFW", 
+        "lon": "-97.0380020142", 
+        "iso_country": "US", 
+        "elevation_ft": "607", 
+        "iso_region": "US-TX", 
+        "lat": "32.8968009949", 
+        "continent": "NA"
+    }, 
+    "Uyo": {
+        "ident": "DNAI", 
+        "lon": "8.093", 
+        "iso_country": "NG", 
+        "elevation_ft": "170", 
+        "iso_region": "NG-AK", 
+        "lat": "4.8725", 
+        "continent": "AF"
+    }, 
+    "Eilat": {
+        "ident": "LLOV", 
+        "lon": "34.935798645", 
+        "iso_country": "IL", 
+        "elevation_ft": "1492", 
+        "iso_region": "IL-D", 
+        "lat": "29.9402999878", 
+        "continent": "AS"
+    }, 
+    "Erzurum": {
+        "ident": "LTCE", 
+        "lon": "41.1702003479", 
+        "iso_country": "TR", 
+        "elevation_ft": "5763", 
+        "iso_region": "TR-25", 
+        "lat": "39.9565010071", 
+        "continent": "AS"
+    }, 
+    "Chattanooga": {
+        "ident": "KCHA", 
+        "lon": "-85.2037963867", 
+        "iso_country": "US", 
+        "elevation_ft": "683", 
+        "iso_region": "US-TN", 
+        "lat": "35.0353012085", 
+        "continent": "NA"
+    }, 
+    "Latacunga": {
+        "ident": "SELT", 
+        "lon": "-78.6157989502", 
+        "iso_country": "EC", 
+        "elevation_ft": "9205", 
+        "iso_region": "EC-X", 
+        "lat": "-0.906832993", 
+        "continent": "SA"
+    }, 
+    "Novosibirsk": {
+        "ident": "UNNT", 
+        "lon": "82.6507034302", 
+        "iso_country": "RU", 
+        "elevation_ft": "365", 
+        "iso_region": "RU-NVS", 
+        "lat": "55.0125999451", 
+        "continent": "AS"
+    }, 
+    "Kuala Lumpur": {
+        "ident": "WMKK", 
+        "lon": "101.7099990845", 
+        "iso_country": "MY", 
+        "elevation_ft": "69", 
+        "iso_region": "MY-14", 
+        "lat": "2.745579958", 
+        "continent": "AS"
+    }, 
+    "Latakia": {
+        "ident": "OSLK", 
+        "lon": "35.9486999512", 
+        "iso_country": "SY", 
+        "elevation_ft": "157", 
+        "iso_region": "SY-LA", 
+        "lat": "35.4011001587", 
+        "continent": "AS"
+    }, 
+    "Billund": {
+        "ident": "EKBI", 
+        "lon": "9.1517801285", 
+        "iso_country": "DK", 
+        "elevation_ft": "247", 
+        "iso_region": "DK-83", 
+        "lat": "55.7402992249", 
+        "continent": "EU"
+    }, 
+    "Duluth": {
+        "ident": "KDLH", 
+        "lon": "-92.1936035156", 
+        "iso_country": "US", 
+        "elevation_ft": "1428", 
+        "iso_region": "US-MN", 
+        "lat": "46.8420982361", 
+        "continent": "NA"
+    }, 
+    "Akrotiri": {
+        "ident": "LCRA", 
+        "lon": "32.9879", 
+        "iso_country": "GB", 
+        "elevation_ft": "76", 
+        "iso_region": "GB-U-A", 
+        "lat": "34.590401", 
+        "continent": "EU"
+    }, 
+    "Sarajevo": {
+        "ident": "LQSA", 
+        "lon": "18.3314990997", 
+        "iso_country": "BA", 
+        "elevation_ft": "1708", 
+        "iso_region": "BA-BIH", 
+        "lat": "43.8246002197", 
+        "continent": "EU"
+    }, 
+    "Sorong-Papua Island": {
+        "ident": "WAXX", 
+        "lon": "131.287", 
+        "iso_country": "ID", 
+        "elevation_ft": "10", 
+        "iso_region": "ID-PB", 
+        "lat": "-0.894", 
+        "continent": "AS"
+    }, 
+    "Bordeaux/M\u00e9rignac": {
+        "ident": "LFBD", 
+        "lon": "-0.7155560255", 
+        "iso_country": "FR", 
+        "elevation_ft": "162", 
+        "iso_region": "FR-B", 
+        "lat": "44.8283004761", 
+        "continent": "EU"
+    }, 
+    "Makinohara / Shimada": {
+        "ident": "rjns", 
+        "lon": "138.18775177", 
+        "iso_country": "JP", 
+        "elevation_ft": "433", 
+        "iso_region": "JP-22", 
+        "lat": "34.7960434679", 
+        "continent": "AS"
+    }, 
+    "Tallahassee": {
+        "ident": "KTLH", 
+        "lon": "-84.3503036499", 
+        "iso_country": "US", 
+        "elevation_ft": "81", 
+        "iso_region": "US-FL", 
+        "lat": "30.3964996338", 
+        "continent": "NA"
+    }, 
+    "Belgrade": {
+        "ident": "LYBE", 
+        "lon": "20.3090991974", 
+        "iso_country": "RS", 
+        "elevation_ft": "335", 
+        "iso_region": "RS-00", 
+        "lat": "44.8184013367", 
+        "continent": "EU"
+    }, 
+    "B\u00e2le/Mulhouse": {
+        "ident": "LFSB", 
+        "lon": "7.5291667", 
+        "iso_country": "FR", 
+        "elevation_ft": "885", 
+        "iso_region": "FR-A", 
+        "lat": "47.59", 
+        "continent": "EU"
+    }, 
+    "Santo Domingo": {
+        "ident": "MDSD", 
+        "lon": "-69.6688995361", 
+        "iso_country": "DO", 
+        "elevation_ft": "59", 
+        "iso_region": "DO-01", 
+        "lat": "18.4297008514", 
+        "continent": "NA"
+    }, 
+    "Belize City": {
+        "ident": "MZBZ", 
+        "lon": "-88.3081970215", 
+        "iso_country": "BZ", 
+        "elevation_ft": "15", 
+        "iso_region": "BZ-BZ", 
+        "lat": "17.539100647", 
+        "continent": "NA"
+    }, 
+    "Monroe": {
+        "ident": "KMLU", 
+        "lon": "-92.0376968384", 
+        "iso_country": "US", 
+        "elevation_ft": "79", 
+        "iso_region": "US-LA", 
+        "lat": "32.5108985901", 
+        "continent": "NA"
+    }, 
+    "Monterrey": {
+        "ident": "MMMY", 
+        "lon": "-100.107002258", 
+        "iso_country": "MX", 
+        "elevation_ft": "1278", 
+        "iso_region": "MX-NLE", 
+        "lat": "25.7784996033", 
+        "continent": "NA"
+    }, 
+    "Zhengzhou": {
+        "ident": "ZHCC", 
+        "lon": "113.841003418", 
+        "iso_country": "CN", 
+        "elevation_ft": "495", 
+        "iso_region": "CN-41", 
+        "lat": "34.5196990967", 
+        "continent": "AS"
+    }, 
+    "Montgomery": {
+        "ident": "KMGM", 
+        "lon": "-86.39399719", 
+        "iso_country": "US", 
+        "elevation_ft": "221", 
+        "iso_region": "US-AL", 
+        "lat": "32.30059814", 
+        "continent": "NA"
+    }, 
+    "Newark": {
+        "ident": "KEWR", 
+        "lon": "-74.1687011719", 
+        "iso_country": "US", 
+        "elevation_ft": "18", 
+        "iso_region": "US-NJ", 
+        "lat": "40.6925010681", 
+        "continent": "NA"
+    }, 
+    "Natal": {
+        "ident": "SBSG", 
+        "lon": "-35.376111", 
+        "iso_country": "BR", 
+        "elevation_ft": "272", 
+        "iso_region": "BR-RN", 
+        "lat": "-5.768056", 
+        "continent": "SA"
+    }, 
+    "Tirana": {
+        "ident": "LATI", 
+        "lon": "19.7206001282", 
+        "iso_country": "AL", 
+        "elevation_ft": "126", 
+        "iso_region": "AL-11", 
+        "lat": "41.4146995544", 
+        "continent": "EU"
+    }, 
+    "Perth": {
+        "ident": "YPPH", 
+        "lon": "115.9670028687", 
+        "iso_country": "AU", 
+        "elevation_ft": "67", 
+        "iso_region": "AU-WA", 
+        "lat": "-31.9402999878", 
+        "continent": "OC"
+    }, 
+    "Beirut": {
+        "ident": "OLBA", 
+        "lon": "35.4883995056", 
+        "iso_country": "LB", 
+        "elevation_ft": "87", 
+        "iso_region": "LB-JL", 
+        "lat": "33.8208999634", 
+        "continent": "AS"
+    }, 
+    "Simferopol": {
+        "ident": "UKFF", 
+        "lon": "33.9751014709", 
+        "iso_country": "UA", 
+        "elevation_ft": "639", 
+        "iso_region": "UA-43", 
+        "lat": "45.0522003174", 
+        "continent": "EU"
+    }, 
+    "Wuhan": {
+        "ident": "ZHHH", 
+        "lon": "114.2080001831", 
+        "iso_country": "CN", 
+        "elevation_ft": "113", 
+        "iso_region": "CN-42", 
+        "lat": "30.7838001251", 
+        "continent": "AS"
+    }, 
+    "Mal\u00e9": {
+        "ident": "VRMM", 
+        "lon": "73.5290985107", 
+        "iso_country": "MV", 
+        "elevation_ft": "6", 
+        "iso_region": "MV-MLE", 
+        "lat": "4.1918301582", 
+        "continent": "AS"
+    }, 
+    "Fort Wayne": {
+        "ident": "KFWA", 
+        "lon": "-85.19509888", 
+        "iso_country": "US", 
+        "elevation_ft": "814", 
+        "iso_region": "US-IN", 
+        "lat": "40.97850037", 
+        "continent": "NA"
+    }, 
+    "Hamburg": {
+        "ident": "EDDH", 
+        "lon": "9.9882297516", 
+        "iso_country": "DE", 
+        "elevation_ft": "53", 
+        "iso_region": "DE-HH", 
+        "lat": "53.6304016113", 
+        "continent": "EU"
+    }, 
+    "Catania": {
+        "ident": "LICC", 
+        "lon": "15.0663995743", 
+        "iso_country": "IT", 
+        "elevation_ft": "39", 
+        "iso_region": "IT-82", 
+        "lat": "37.4668006897", 
+        "continent": "EU"
+    }, 
+    "Hartford": {
+        "ident": "KBDL", 
+        "lon": "-72.6831970215", 
+        "iso_country": "US", 
+        "elevation_ft": "173", 
+        "iso_region": "US-CT", 
+        "lat": "41.9388999939", 
+        "continent": "NA"
+    }, 
+    "Brussels": {
+        "ident": "EBCI", 
+        "lon": "4.4538202286", 
+        "iso_country": "BE", 
+        "elevation_ft": "614", 
+        "iso_region": "BE-WHT", 
+        "lat": "50.4592018127", 
+        "continent": "EU"
+    }, 
+    "Porto": {
+        "ident": "LPPR", 
+        "lon": "-8.6813898087", 
+        "iso_country": "PT", 
+        "elevation_ft": "228", 
+        "iso_region": "PT-13", 
+        "lat": "41.2481002808", 
+        "continent": "EU"
+    }, 
+    "Dubai": {
+        "ident": "OMDB", 
+        "lon": "55.3643989563", 
+        "iso_country": "AE", 
+        "elevation_ft": "62", 
+        "iso_region": "AE-DU", 
+        "lat": "25.2527999878", 
+        "continent": "AS"
+    }, 
+    "Addis Ababa": {
+        "ident": "HAAB", 
+        "lon": "38.7993011475", 
+        "iso_country": "ET", 
+        "elevation_ft": "7630", 
+        "iso_region": "ET-AA", 
+        "lat": "8.9778900147", 
+        "continent": "AF"
+    }, 
+    "Norfolk": {
+        "ident": "KORF", 
+        "lon": "-76.2012023926", 
+        "iso_country": "US", 
+        "elevation_ft": "26", 
+        "iso_region": "US-VA", 
+        "lat": "36.8945999146", 
+        "continent": "NA"
+    }, 
+    "Miami": {
+        "ident": "KMIA", 
+        "lon": "-80.2906036377", 
+        "iso_country": "US", 
+        "elevation_ft": "8", 
+        "iso_region": "US-FL", 
+        "lat": "25.7931995392", 
+        "continent": "NA"
+    }, 
+    "municipality": {
+        "ident": "ident", 
+        "lon": "longitude_deg", 
+        "iso_country": "iso_country", 
+        "elevation_ft": "elevation_ft", 
+        "iso_region": "iso_region", 
+        "lat": "latitude_deg", 
+        "continent": "continent"
+    }, 
+    "Bournemouth": {
+        "ident": "EGHH", 
+        "lon": "-1.8424999714", 
+        "iso_country": "GB", 
+        "elevation_ft": "38", 
+        "iso_region": "GB-ENG", 
+        "lat": "50.7799987793", 
+        "continent": "EU"
+    }, 
+    "Rome": {
+        "ident": "LIRF", 
+        "lon": "12.2508001328", 
+        "iso_country": "IT", 
+        "elevation_ft": "15", 
+        "iso_region": "IT-62", 
+        "lat": "41.8045005798", 
+        "continent": "EU"
+    }, 
+    "St. Petersburg": {
+        "ident": "ULLI", 
+        "lon": "30.2625007629", 
+        "iso_country": "RU", 
+        "elevation_ft": "78", 
+        "iso_region": "RU-SPE", 
+        "lat": "59.8003005981", 
+        "continent": "EU"
+    }, 
+    "Roma": {
+        "ident": "LIRA", 
+        "lon": "12.5949001312", 
+        "iso_country": "IT", 
+        "elevation_ft": "427", 
+        "iso_region": "IT-62", 
+        "lat": "41.7994003296", 
+        "continent": "EU"
+    }, 
+    "Marseille": {
+        "ident": "LFML", 
+        "lon": "5.2214241028", 
+        "iso_country": "FR", 
+        "elevation_ft": "74", 
+        "iso_region": "FR-U", 
+        "lat": "43.439271922", 
+        "continent": "EU"
+    }, 
+    "Punta Cana": {
+        "ident": "MDPC", 
+        "lon": "-68.3634033203", 
+        "iso_country": "DO", 
+        "elevation_ft": "47", 
+        "iso_region": "DO-11", 
+        "lat": "18.5673999786", 
+        "continent": "NA"
+    }, 
+    "Taipei": {
+        "ident": "RCTP", 
+        "lon": "121.233001709", 
+        "iso_country": "TW", 
+        "elevation_ft": "106", 
+        "iso_region": "TW-TAO", 
+        "lat": "25.0776996613", 
+        "continent": "AS"
+    }, 
+    "Avarua": {
+        "ident": "NCRG", 
+        "lon": "-159.805999756", 
+        "iso_country": "CK", 
+        "elevation_ft": "19", 
+        "iso_region": "CK-U-A", 
+        "lat": "-21.2026996613", 
+        "continent": "OC"
+    }, 
+    "Siem Reap": {
+        "ident": "VDSR", 
+        "lon": "103.81300354", 
+        "iso_country": "KH", 
+        "elevation_ft": "60", 
+        "iso_region": "KH-17", 
+        "lat": "13.4106998444", 
+        "continent": "AS"
+    }, 
+    "Savannah": {
+        "ident": "KSAV", 
+        "lon": "-81.20210266", 
+        "iso_country": "US", 
+        "elevation_ft": "50", 
+        "iso_region": "US-GA", 
+        "lat": "32.12760162", 
+        "continent": "NA"
+    }, 
+    "Cairo": {
+        "ident": "HECA", 
+        "lon": "31.4055995941", 
+        "iso_country": "EG", 
+        "elevation_ft": "382", 
+        "iso_region": "EG-C", 
+        "lat": "30.1219005585", 
+        "continent": "AF"
+    }, 
+    "Shenyang": {
+        "ident": "ZYTX", 
+        "lon": "123.483001709", 
+        "iso_country": "CN", 
+        "elevation_ft": "198", 
+        "iso_region": "CN-21", 
+        "lat": "41.6398010254", 
+        "continent": "AS"
+    }, 
+    "Fort Worth": {
+        "ident": "KFTW", 
+        "lon": "-97.3623962402", 
+        "iso_country": "US", 
+        "elevation_ft": "710", 
+        "iso_region": "US-TX", 
+        "lat": "32.8198013306", 
+        "continent": "NA"
+    }, 
+    "Shang-I": {
+        "ident": "RCBS", 
+        "lon": "118.3590011597", 
+        "iso_country": "TW", 
+        "elevation_ft": "93", 
+        "iso_region": "TW-X-KM", 
+        "lat": "24.4279003143", 
+        "continent": "AS"
+    }, 
+    "Milan": {
+        "ident": "LIML", 
+        "lon": "9.2767400742", 
+        "iso_country": "IT", 
+        "elevation_ft": "353", 
+        "iso_region": "IT-25", 
+        "lat": "45.445098877", 
+        "continent": "EU"
+    }, 
+    "Olenegorsk": {
+        "ident": "RU-4464", 
+        "lon": "33.4639015198", 
+        "iso_country": "RU", 
+        "elevation_ft": "702", 
+        "iso_region": "RU-MUR", 
+        "lat": "68.151802063", 
+        "continent": "EU"
+    }, 
+    "Davao City": {
+        "ident": "RPMD", 
+        "lon": "125.6460037231", 
+        "iso_country": "PH", 
+        "elevation_ft": "96", 
+        "iso_region": "PH-DAV", 
+        "lat": "7.1255202293", 
+        "continent": "AS"
+    }, 
+    "Osaka": {
+        "ident": "RJOO", 
+        "lon": "135.43800354", 
+        "iso_country": "JP", 
+        "elevation_ft": "50", 
+        "iso_region": "JP-27", 
+        "lat": "34.7854995728", 
+        "continent": "AS"
+    }, 
+    "\u0130zmir": {
+        "ident": "LTBJ", 
+        "lon": "27.156999588", 
+        "iso_country": "TR", 
+        "elevation_ft": "412", 
+        "iso_region": "TR-35", 
+        "lat": "38.2924003601", 
+        "continent": "AS"
+    }, 
+    "Avord": {
+        "ident": "LFOA", 
+        "lon": "2.6325", 
+        "iso_country": "FR", 
+        "elevation_ft": "580", 
+        "iso_region": "FR-F", 
+        "lat": "47.053299", 
+        "continent": "EU"
+    }, 
+    "Dortmund": {
+        "ident": "EDLW", 
+        "lon": "7.6122398377", 
+        "iso_country": "DE", 
+        "elevation_ft": "425", 
+        "iso_region": "DE-NW", 
+        "lat": "51.5182991028", 
+        "continent": "EU"
+    }, 
+    "Guadalajara": {
+        "ident": "MMGL", 
+        "lon": "-103.3109970093", 
+        "iso_country": "MX", 
+        "elevation_ft": "5016", 
+        "iso_region": "MX-JAL", 
+        "lat": "20.5217990875", 
+        "continent": "NA"
+    }, 
+    "Calgary": {
+        "ident": "CYYC", 
+        "lon": "-114.019996643", 
+        "iso_country": "CA", 
+        "elevation_ft": "3557", 
+        "iso_region": "CA-AB", 
+        "lat": "51.113899231", 
+        "continent": "NA"
+    }, 
+    "Peru": {
+        "ident": "KGUS", 
+        "lon": "-86.1520996094", 
+        "iso_country": "US", 
+        "elevation_ft": "812", 
+        "iso_region": "US-IN", 
+        "lat": "40.6481018066", 
+        "continent": "NA"
+    }, 
+    "Phnom Penh": {
+        "ident": "VDPP", 
+        "lon": "104.84400177", 
+        "iso_country": "KH", 
+        "elevation_ft": "40", 
+        "iso_region": "KH-8", 
+        "lat": "11.5466003418", 
+        "continent": "AS"
+    }, 
+    "Bossier City": {
+        "ident": "KBAD", 
+        "lon": "-93.6626968384", 
+        "iso_country": "US", 
+        "elevation_ft": "166", 
+        "iso_region": "US-LA", 
+        "lat": "32.5018005371", 
+        "continent": "NA"
+    }, 
+    "Denpasar-Bali Island": {
+        "ident": "WADD", 
+        "lon": "115.1669998169", 
+        "iso_country": "ID", 
+        "elevation_ft": "14", 
+        "iso_region": "ID-BA", 
+        "lat": "-8.748169899", 
+        "continent": "AS"
+    }, 
+    "Dubuque": {
+        "ident": "KDBQ", 
+        "lon": "-90.70950317", 
+        "iso_country": "US", 
+        "elevation_ft": "1077", 
+        "iso_region": "US-IA", 
+        "lat": "42.40200043", 
+        "continent": "NA"
+    }, 
+    "Jakarta": {
+        "ident": "WIII", 
+        "lon": "106.65599823", 
+        "iso_country": "ID", 
+        "elevation_ft": "34", 
+        "iso_region": "ID-BT", 
+        "lat": "-6.1255698204", 
+        "continent": "AS"
+    }, 
+    "Salt Lake City": {
+        "ident": "KSLC", 
+        "lon": "-111.9779968262", 
+        "iso_country": "US", 
+        "elevation_ft": "4227", 
+        "iso_region": "US-UT", 
+        "lat": "40.7883987427", 
+        "continent": "NA"
+    }, 
+    "Khabarovsk": {
+        "ident": "UHHH", 
+        "lon": "135.18800354", 
+        "iso_country": "RU", 
+        "elevation_ft": "244", 
+        "iso_region": "RU-KHA", 
+        "lat": "48.5279998779", 
+        "continent": "AS"
+    }, 
+    "Florian\u00f3polis": {
+        "ident": "SBFL", 
+        "lon": "-48.5525016785", 
+        "iso_country": "BR", 
+        "elevation_ft": "16", 
+        "iso_region": "BR-SC", 
+        "lat": "-27.6702785492", 
+        "continent": "SA"
+    }, 
+    "Cochin": {
+        "ident": "VOCI", 
+        "lon": "76.4019012451", 
+        "iso_country": "IN", 
+        "elevation_ft": "30", 
+        "iso_region": "IN-KL", 
+        "lat": "10.1520004272", 
+        "continent": "AS"
+    }, 
+    "Kuwait City": {
+        "ident": "OKBK", 
+        "lon": "47.9688987732", 
+        "iso_country": "KW", 
+        "elevation_ft": "206", 
+        "iso_region": "KW-FA", 
+        "lat": "29.226600647", 
+        "continent": "AS"
+    }, 
+    "Troms\u00f8": {
+        "ident": "ENTC", 
+        "lon": "18.9188995361", 
+        "iso_country": "NO", 
+        "elevation_ft": "31", 
+        "iso_region": "NO-19", 
+        "lat": "69.6832962036", 
+        "continent": "EU"
+    }, 
+    "Kharkiv": {
+        "ident": "UKHH", 
+        "lon": "36.2900009155", 
+        "iso_country": "UA", 
+        "elevation_ft": "508", 
+        "iso_region": "UA-63", 
+        "lat": "49.9248008728", 
+        "continent": "EU"
+    }, 
+    "Tucson": {
+        "ident": "KTUS", 
+        "lon": "-110.9410018921", 
+        "iso_country": "US", 
+        "elevation_ft": "2643", 
+        "iso_region": "US-AZ", 
+        "lat": "32.1161003113", 
+        "continent": "NA"
+    }, 
+    "Taiyuan": {
+        "ident": "ZBYN", 
+        "lon": "112.6279983521", 
+        "iso_country": "CN", 
+        "elevation_ft": "2575", 
+        "iso_region": "CN-14", 
+        "lat": "37.7468986511", 
+        "continent": "AS"
+    }, 
+    "Lapu-Lapu City": {
+        "ident": "RPVM", 
+        "lon": "123.9789962769", 
+        "iso_country": "PH", 
+        "elevation_ft": "31", 
+        "iso_region": "PH-CEB", 
+        "lat": "10.3074998856", 
+        "continent": "AS"
+    }, 
+    "Buffalo": {
+        "ident": "KBUF", 
+        "lon": "-78.73220062", 
+        "iso_country": "US", 
+        "elevation_ft": "728", 
+        "iso_region": "US-NY", 
+        "lat": "42.94049835", 
+        "continent": "NA"
+    }, 
+    "Sochi": {
+        "ident": "URSS", 
+        "lon": "39.9566001892", 
+        "iso_country": "RU", 
+        "elevation_ft": "89", 
+        "iso_region": "RU-KDA", 
+        "lat": "43.4499015808", 
+        "continent": "EU"
+    }, 
+    "Madrid": {
+        "ident": "LEMD", 
+        "lon": "-3.56676", 
+        "iso_country": "ES", 
+        "elevation_ft": "1998", 
+        "iso_region": "ES-M", 
+        "lat": "40.4936", 
+        "continent": "EU"
+    }, 
+    "Baku": {
+        "ident": "UBBB", 
+        "lon": "50.0466995239", 
+        "iso_country": "AZ", 
+        "elevation_ft": "10", 
+        "iso_region": "AZ-BA", 
+        "lat": "40.4674987793", 
+        "continent": "AS"
+    }, 
+    "Valparaiso": {
+        "ident": "KVPS", 
+        "lon": "-86.5253982544", 
+        "iso_country": "US", 
+        "elevation_ft": "87", 
+        "iso_region": "US-FL", 
+        "lat": "30.4832000732", 
+        "continent": "NA"
+    }, 
+    "Rio De Janeiro": {
+        "ident": "SBGL", 
+        "lon": "-43.2505569458", 
+        "iso_country": "BR", 
+        "elevation_ft": "28", 
+        "iso_region": "BR-RJ", 
+        "lat": "-22.8099994659", 
+        "continent": "SA"
+    }, 
+    "George": {
+        "ident": "FAGG", 
+        "lon": "22.378900528", 
+        "iso_country": "ZA", 
+        "elevation_ft": "648", 
+        "iso_region": "ZA-WC", 
+        "lat": "-34.0055999756", 
+        "continent": "AF"
+    }, 
+    "Huntington": {
+        "ident": "KHTS", 
+        "lon": "-82.55799866", 
+        "iso_country": "US", 
+        "elevation_ft": "828", 
+        "iso_region": "US-WV", 
+        "lat": "38.36669922", 
+        "continent": "NA"
+    }, 
+    "Erie": {
+        "ident": "KERI", 
+        "lon": "-80.1738667488", 
+        "iso_country": "US", 
+        "elevation_ft": "732", 
+        "iso_region": "US-PA", 
+        "lat": "42.0831270134", 
+        "continent": "NA"
+    }, 
+    "Bristol/Johnson/Kingsport": {
+        "ident": "KTRI", 
+        "lon": "-82.4074020386", 
+        "iso_country": "US", 
+        "elevation_ft": "1519", 
+        "iso_region": "US-TN", 
+        "lat": "36.4752006531", 
+        "continent": "NA"
+    }, 
+    "Mexico City": {
+        "ident": "MMMX", 
+        "lon": "-99.0720977783", 
+        "iso_country": "MX", 
+        "elevation_ft": "7316", 
+        "iso_region": "MX-DIF", 
+        "lat": "19.4363002777", 
+        "continent": "NA"
+    }, 
+    "Ontario": {
+        "ident": "KONT", 
+        "lon": "-117.6009979248", 
+        "iso_country": "US", 
+        "elevation_ft": "944", 
+        "iso_region": "US-CA", 
+        "lat": "34.0559997559", 
+        "continent": "NA"
+    }, 
+    "Belfast": {
+        "ident": "EGAC", 
+        "lon": "-5.8724999428", 
+        "iso_country": "GB", 
+        "elevation_ft": "15", 
+        "iso_region": "GB-NIR", 
+        "lat": "54.6180992126", 
+        "continent": "EU"
+    }, 
+    "Burgas": {
+        "ident": "LBBG", 
+        "lon": "27.5151996613", 
+        "iso_country": "BG", 
+        "elevation_ft": "135", 
+        "iso_region": "BG-02", 
+        "lat": "42.5695991516", 
+        "continent": "EU"
+    }, 
+    "Mashhad": {
+        "ident": "OIMM", 
+        "lon": "59.6409988403", 
+        "iso_country": "IR", 
+        "elevation_ft": "3263", 
+        "iso_region": "IR-30", 
+        "lat": "36.2351989746", 
+        "continent": "AS"
+    }, 
+    "Shiraz": {
+        "ident": "OISS", 
+        "lon": "52.5898017883", 
+        "iso_country": "IR", 
+        "elevation_ft": "4920", 
+        "iso_region": "IR-14", 
+        "lat": "29.5391998291", 
+        "continent": "AS"
+    }, 
+    "St. John's": {
+        "ident": "CYYT", 
+        "lon": "-52.7518997192", 
+        "iso_country": "CA", 
+        "elevation_ft": "461", 
+        "iso_region": "CA-NL", 
+        "lat": "47.618598938", 
+        "continent": "NA"
+    }, 
+    "Rochester": {
+        "ident": "KRST", 
+        "lon": "-92.5", 
+        "iso_country": "US", 
+        "elevation_ft": "1317", 
+        "iso_region": "US-MN", 
+        "lat": "43.9082984924", 
+        "continent": "NA"
+    }, 
+    "Puerto Vallarta": {
+        "ident": "MMPR", 
+        "lon": "-105.2539978027", 
+        "iso_country": "MX", 
+        "elevation_ft": "23", 
+        "iso_region": "MX-JAL", 
+        "lat": "20.6800994873", 
+        "continent": "NA"
+    }, 
+    "Samarinda": {
+        "ident": "ID-0017", 
+        "lon": "117.255556", 
+        "iso_country": "ID", 
+        "elevation_ft": "82", 
+        "iso_region": "ID-KI", 
+        "lat": "-0.373611", 
+        "continent": "AS"
+    }, 
+    "Chicago/Rockford": {
+        "ident": "KRFD", 
+        "lon": "-89.0971984863", 
+        "iso_country": "US", 
+        "elevation_ft": "742", 
+        "iso_region": "US-IL", 
+        "lat": "42.195400238", 
+        "continent": "NA"
+    }, 
+    "Faro": {
+        "ident": "LPFR", 
+        "lon": "-7.9659099579", 
+        "iso_country": "PT", 
+        "elevation_ft": "24", 
+        "iso_region": "PT-08", 
+        "lat": "37.0144004822", 
+        "continent": "EU"
+    }, 
+    "Varadero": {
+        "ident": "MUVR", 
+        "lon": "-81.4353027344", 
+        "iso_country": "CU", 
+        "elevation_ft": "210", 
+        "iso_region": "CU-04", 
+        "lat": "23.0344009399", 
+        "continent": "NA"
+    }, 
+    "Medina": {
+        "ident": "OEMA", 
+        "lon": "39.7051010132", 
+        "iso_country": "SA", 
+        "elevation_ft": "2151", 
+        "iso_region": "SA-03", 
+        "lat": "24.5534000397", 
+        "continent": "AS"
+    }, 
+    "D\u00fcsseldorf": {
+        "ident": "EDDL", 
+        "lon": "6.7667798996", 
+        "iso_country": "DE", 
+        "elevation_ft": "147", 
+        "iso_region": "DE-NW", 
+        "lat": "51.2895011902", 
+        "continent": "EU"
+    }, 
+    "Shreveport": {
+        "ident": "KSHV", 
+        "lon": "-93.8255996704", 
+        "iso_country": "US", 
+        "elevation_ft": "258", 
+        "iso_region": "US-LA", 
+        "lat": "32.4466018677", 
+        "continent": "NA"
+    }, 
+    "Cheongju": {
+        "ident": "RKTU", 
+        "lon": "127.499000549", 
+        "iso_country": "KR", 
+        "elevation_ft": "191", 
+        "iso_region": "KR-43", 
+        "lat": "36.7165985107", 
+        "continent": "AS"
+    }, 
+    "Larnarca": {
+        "ident": "LCLK", 
+        "lon": "33.6249008179", 
+        "iso_country": "CY", 
+        "elevation_ft": "8", 
+        "iso_region": "CY-04", 
+        "lat": "34.8750991821", 
+        "continent": "AS"
+    }, 
+    "Palermo": {
+        "ident": "LICJ", 
+        "lon": "13.0909996033", 
+        "iso_country": "IT", 
+        "elevation_ft": "65", 
+        "iso_region": "IT-82", 
+        "lat": "38.1759986877", 
+        "continent": "EU"
+    }, 
+    "Helsinki": {
+        "ident": "EFHK", 
+        "lon": "24.963300705", 
+        "iso_country": "FI", 
+        "elevation_ft": "179", 
+        "iso_region": "FI-ES", 
+        "lat": "60.317199707", 
+        "continent": "EU"
+    }, 
+    "Haikou": {
+        "ident": "ZJHK", 
+        "lon": "110.4589996338", 
+        "iso_country": "CN", 
+        "elevation_ft": "75", 
+        "iso_region": "CN-46", 
+        "lat": "19.9349002838", 
+        "continent": "AS"
+    }, 
+    "Ottawa": {
+        "ident": "CYOW", 
+        "lon": "-75.6691970825", 
+        "iso_country": "CA", 
+        "elevation_ft": "374", 
+        "iso_region": "CA-ON", 
+        "lat": "45.3224983215", 
+        "continent": "NA"
+    }, 
+    "Podgorica": {
+        "ident": "LYPG", 
+        "lon": "19.2518997192", 
+        "iso_country": "ME", 
+        "elevation_ft": "141", 
+        "iso_region": "ME-16", 
+        "lat": "42.3594017029", 
+        "continent": "EU"
+    }, 
+    "Charleston": {
+        "ident": "KCRW", 
+        "lon": "-81.5932006836", 
+        "iso_country": "US", 
+        "elevation_ft": "981", 
+        "iso_region": "US-WV", 
+        "lat": "38.3731002808", 
+        "continent": "NA"
+    }, 
+    "Frankfurt-am-Main": {
+        "ident": "EDDF", 
+        "lon": "8.54313", 
+        "iso_country": "DE", 
+        "elevation_ft": "364", 
+        "iso_region": "DE-HE", 
+        "lat": "50.026402", 
+        "continent": "EU"
+    }, 
+    "Nairobi": {
+        "ident": "HKJK", 
+        "lon": "36.9277992249", 
+        "iso_country": "KE", 
+        "elevation_ft": "5330", 
+        "iso_region": "KE-110", 
+        "lat": "-1.319239974", 
+        "continent": "AF"
+    }, 
+    "Wichita Falls": {
+        "ident": "KSPS", 
+        "lon": "-98.49189758", 
+        "iso_country": "US", 
+        "elevation_ft": "1019", 
+        "iso_region": "US-TX", 
+        "lat": "33.98880005", 
+        "continent": "NA"
+    }, 
+    "Canberra": {
+        "ident": "YSCB", 
+        "lon": "149.1950073242", 
+        "iso_country": "AU", 
+        "elevation_ft": "1886", 
+        "iso_region": "AU-ACT", 
+        "lat": "-35.3069000244", 
+        "continent": "OC"
+    }, 
+    "Limerick": {
+        "ident": "EINN", 
+        "lon": "-8.9248199463", 
+        "iso_country": "IE", 
+        "elevation_ft": "46", 
+        "iso_region": "IE-CE", 
+        "lat": "52.7019996643", 
+        "continent": "EU"
+    }, 
+    "Reykjav\u00edk": {
+        "ident": "BIKF", 
+        "lon": "-22.6056003571", 
+        "iso_country": "IS", 
+        "elevation_ft": "171", 
+        "iso_region": "IS-2", 
+        "lat": "63.9850006104", 
+        "continent": "EU"
+    }, 
+    "New York": {
+        "ident": "KLGA", 
+        "lon": "-73.87259674", 
+        "iso_country": "US", 
+        "elevation_ft": "21", 
+        "iso_region": "US-NY", 
+        "lat": "40.77719879", 
+        "continent": "NA"
+    }, 
+    "Casper": {
+        "ident": "KCPR", 
+        "lon": "-106.4639969", 
+        "iso_country": "US", 
+        "elevation_ft": "5350", 
+        "iso_region": "US-WY", 
+        "lat": "42.90800095", 
+        "continent": "NA"
+    }, 
+    "Cagayan de Oro City": {
+        "ident": "PH-0001", 
+        "lon": "124.456496", 
+        "iso_country": "PH", 
+        "elevation_ft": "190", 
+        "iso_region": "PH-MSR", 
+        "lat": "8.612203", 
+        "continent": "AS"
+    }, 
+    "Da Nang": {
+        "ident": "VVDN", 
+        "lon": "108.1989974976", 
+        "iso_country": "VN", 
+        "elevation_ft": "33", 
+        "iso_region": "VN-60", 
+        "lat": "16.0438995361", 
+        "continent": "AS"
+    }, 
+    "Lima": {
+        "ident": "SPIM", 
+        "lon": "-77.1143035889", 
+        "iso_country": "PE", 
+        "elevation_ft": "113", 
+        "iso_region": "PE-LIM", 
+        "lat": "-12.021900177", 
+        "continent": "SA"
+    }, 
+    "Bergen": {
+        "ident": "ENBR", 
+        "lon": "5.218140125", 
+        "iso_country": "NO", 
+        "elevation_ft": "170", 
+        "iso_region": "NO-12", 
+        "lat": "60.29339981", 
+        "continent": "EU"
+    }, 
+    "Belo Horizonte": {
+        "ident": "SBCF", 
+        "lon": "-43.9719429016", 
+        "iso_country": "BR", 
+        "elevation_ft": "2715", 
+        "iso_region": "BR-MG", 
+        "lat": "-19.6244430542", 
+        "continent": "SA"
+    }, 
+    "Jinan": {
+        "ident": "ZSJN", 
+        "lon": "117.216003418", 
+        "iso_country": "CN", 
+        "elevation_ft": "76", 
+        "iso_region": "CN-37", 
+        "lat": "36.8572006226", 
+        "continent": "AS"
+    }, 
+    "Abilene": {
+        "ident": "KDYS", 
+        "lon": "-99.854598999", 
+        "iso_country": "US", 
+        "elevation_ft": "1789", 
+        "iso_region": "US-TX", 
+        "lat": "32.4207992554", 
+        "continent": "NA"
+    }, 
+    "Lubbock": {
+        "ident": "KLBB", 
+        "lon": "-101.8229980469", 
+        "iso_country": "US", 
+        "elevation_ft": "3282", 
+        "iso_region": "US-TX", 
+        "lat": "33.6636009216", 
+        "continent": "NA"
+    }, 
+    "Sumter": {
+        "ident": "KSSC", 
+        "lon": "-80.47059631", 
+        "iso_country": "US", 
+        "elevation_ft": "241", 
+        "iso_region": "US-SC", 
+        "lat": "33.97269821", 
+        "continent": "NA"
+    }, 
+    "Philadelphia": {
+        "ident": "KPHL", 
+        "lon": "-75.2410964966", 
+        "iso_country": "US", 
+        "elevation_ft": "36", 
+        "iso_region": "US-PA", 
+        "lat": "39.8718986511", 
+        "continent": "NA"
+    }, 
+    "Fairford": {
+        "ident": "EGVA", 
+        "lon": "-1.7900300026", 
+        "iso_country": "GB", 
+        "elevation_ft": "286", 
+        "iso_region": "GB-ENG", 
+        "lat": "51.6822013855", 
+        "continent": "EU"
+    }, 
+    "Winnipeg": {
+        "ident": "CYWG", 
+        "lon": "-97.2398986816", 
+        "iso_country": "CA", 
+        "elevation_ft": "783", 
+        "iso_region": "CA-MB", 
+        "lat": "49.9099998474", 
+        "continent": "NA"
+    }, 
+    "Tenerife Island": {
+        "ident": "GCXO", 
+        "lon": "-16.3414993286", 
+        "iso_country": "ES", 
+        "elevation_ft": "2076", 
+        "iso_region": "ES-CN", 
+        "lat": "28.4827003479", 
+        "continent": "EU"
+    }, 
+    "Montr\u00e9al": {
+        "ident": "CYUL", 
+        "lon": "-73.7407989502", 
+        "iso_country": "CA", 
+        "elevation_ft": "118", 
+        "iso_region": "CA-QC", 
+        "lat": "45.4706001282", 
+        "continent": "NA"
+    }, 
+    "Fort Myers": {
+        "ident": "KRSW", 
+        "lon": "-81.7552032471", 
+        "iso_country": "US", 
+        "elevation_ft": "30", 
+        "iso_region": "US-FL", 
+        "lat": "26.5361995697", 
+        "continent": "NA"
+    }, 
+    "Odessa": {
+        "ident": "UKOO", 
+        "lon": "30.6765003204", 
+        "iso_country": "UA", 
+        "elevation_ft": "172", 
+        "iso_region": "UA-51", 
+        "lat": "46.4267997742", 
+        "continent": "EU"
+    }, 
+    "Malm\u00f6": {
+        "ident": "ESMS", 
+        "lon": "13.3761978149", 
+        "iso_country": "SE", 
+        "elevation_ft": "236", 
+        "iso_region": "SE-M", 
+        "lat": "55.536305364", 
+        "continent": "EU"
+    }, 
+    "Tashkent": {
+        "ident": "UTTT", 
+        "lon": "69.2811965942", 
+        "iso_country": "UZ", 
+        "elevation_ft": "1417", 
+        "iso_region": "UZ-TO", 
+        "lat": "41.257900238", 
+        "continent": "AS"
+    }, 
+    "Duqm": {
+        "ident": "OM-0003", 
+        "lon": "57.6428", 
+        "iso_country": "OM", 
+        "elevation_ft": "380", 
+        "iso_region": "OM-WU", 
+        "lat": "19.5", 
+        "continent": "AS"
+    }, 
+    "Vasco da Gama": {
+        "ident": "VAGO", 
+        "lon": "73.8313980103", 
+        "iso_country": "IN", 
+        "elevation_ft": "150", 
+        "iso_region": "IN-GA", 
+        "lat": "15.3808002472", 
+        "continent": "AS"
+    }, 
+    "Chongqing": {
+        "ident": "ZUCK", 
+        "lon": "106.641998291", 
+        "iso_country": "CN", 
+        "elevation_ft": "1365", 
+        "iso_region": "CN-50", 
+        "lat": "29.7192001343", 
+        "continent": "AS"
+    }, 
+    "Changsha": {
+        "ident": "ZGHA", 
+        "lon": "113.220001221", 
+        "iso_country": "CN", 
+        "elevation_ft": "217", 
+        "iso_region": "CN-43", 
+        "lat": "28.1891994476", 
+        "continent": "AS"
+    }, 
+    "Bangor": {
+        "ident": "KBGR", 
+        "lon": "-68.8281021118", 
+        "iso_country": "US", 
+        "elevation_ft": "192", 
+        "iso_region": "US-ME", 
+        "lat": "44.8073997498", 
+        "continent": "NA"
+    }, 
+    "Lafayette": {
+        "ident": "KLFT", 
+        "lon": "-91.98760223", 
+        "iso_country": "US", 
+        "elevation_ft": "42", 
+        "iso_region": "US-LA", 
+        "lat": "30.20529938", 
+        "continent": "NA"
+    }, 
+    "Tbilisi": {
+        "ident": "UGTB", 
+        "lon": "44.95470047", 
+        "iso_country": "GE", 
+        "elevation_ft": "1624", 
+        "iso_region": "GE-TB", 
+        "lat": "41.6692008972", 
+        "continent": "AS"
+    }, 
+    "Wenzhou": {
+        "ident": "ZSWZ", 
+        "lon": "120.8519973755", 
+        "iso_country": "CN", 
+        "elevation_ft": "", 
+        "iso_region": "CN-33", 
+        "lat": "27.9122009277", 
+        "continent": "AS"
+    }, 
+    "Bod\u00f8": {
+        "ident": "ENBO", 
+        "lon": "14.3653001785", 
+        "iso_country": "NO", 
+        "elevation_ft": "42", 
+        "iso_region": "NO-18", 
+        "lat": "67.269203186", 
+        "continent": "EU"
+    }, 
+    "Goldsboro": {
+        "ident": "KGSB", 
+        "lon": "-77.96060181", 
+        "iso_country": "US", 
+        "elevation_ft": "109", 
+        "iso_region": "US-NC", 
+        "lat": "35.33940125", 
+        "continent": "NA"
+    }, 
+    "Prague": {
+        "ident": "LKPR", 
+        "lon": "14.2600002289", 
+        "iso_country": "CZ", 
+        "elevation_ft": "1247", 
+        "iso_region": "CZ-PR", 
+        "lat": "50.1007995605", 
+        "continent": "EU"
+    }, 
+    "Kingston": {
+        "ident": "MKJP", 
+        "lon": "-76.7874984741", 
+        "iso_country": "JM", 
+        "elevation_ft": "10", 
+        "iso_region": "JM-01", 
+        "lat": "17.9356994629", 
+        "continent": "NA"
+    }, 
+    "Nanjing": {
+        "ident": "ZSNJ", 
+        "lon": "118.8619995117", 
+        "iso_country": "CN", 
+        "elevation_ft": "49", 
+        "iso_region": "CN-32", 
+        "lat": "31.7420005798", 
+        "continent": "AS"
+    }, 
+    "Muan": {
+        "ident": "RKJB", 
+        "lon": "126.382814", 
+        "iso_country": "KR", 
+        "elevation_ft": "35", 
+        "iso_region": "KR-46", 
+        "lat": "34.991406", 
+        "continent": "AS"
+    }, 
+    "Universal City": {
+        "ident": "KRND", 
+        "lon": "-98.27890015", 
+        "iso_country": "US", 
+        "elevation_ft": "761", 
+        "iso_region": "US-TX", 
+        "lat": "29.52969933", 
+        "continent": "NA"
+    }, 
+    "Lisbon": {
+        "ident": "LPPT", 
+        "lon": "-9.1359195709", 
+        "iso_country": "PT", 
+        "elevation_ft": "374", 
+        "iso_region": "PT-11", 
+        "lat": "38.7812995911", 
+        "continent": "EU"
+    }, 
+    "Antalya": {
+        "ident": "LTAI", 
+        "lon": "30.800501", 
+        "iso_country": "TR", 
+        "elevation_ft": "177", 
+        "iso_region": "TR-07", 
+        "lat": "36.898701", 
+        "continent": "AS"
+    }, 
+    "Corpus Christi": {
+        "ident": "KCRP", 
+        "lon": "-97.5011978149", 
+        "iso_country": "US", 
+        "elevation_ft": "44", 
+        "iso_region": "US-TX", 
+        "lat": "27.7703990936", 
+        "continent": "NA"
+    }, 
+    "Guangzhou": {
+        "ident": "ZGGG", 
+        "lon": "113.2990036011", 
+        "iso_country": "CN", 
+        "elevation_ft": "50", 
+        "iso_region": "CN-44", 
+        "lat": "23.3924007416", 
+        "continent": "AS"
+    }, 
+    "Kiev": {
+        "ident": "UKBB", 
+        "lon": "30.8946990967", 
+        "iso_country": "UA", 
+        "elevation_ft": "427", 
+        "iso_region": "UA-32", 
+        "lat": "50.3450012207", 
+        "continent": "EU"
+    }, 
+    "Paris": {
+        "ident": "LFPO", 
+        "lon": "2.3594400883", 
+        "iso_country": "FR", 
+        "elevation_ft": "291", 
+        "iso_region": "FR-J", 
+        "lat": "48.7252998352", 
+        "continent": "EU"
+    }, 
+    "Mildenhall": {
+        "ident": "EGUN", 
+        "lon": "0.4864059985", 
+        "iso_country": "GB", 
+        "elevation_ft": "33", 
+        "iso_region": "GB-ENG", 
+        "lat": "52.3619003296", 
+        "continent": "EU"
+    }, 
+    "Paphos": {
+        "ident": "LCPH", 
+        "lon": "32.4856987", 
+        "iso_country": "CY", 
+        "elevation_ft": "41", 
+        "iso_region": "CY-06", 
+        "lat": "34.7179985046", 
+        "continent": "AS"
+    }, 
+    "Johannesburg": {
+        "ident": "FAJS", 
+        "lon": "28.246", 
+        "iso_country": "ZA", 
+        "elevation_ft": "5558", 
+        "iso_region": "ZA-GT", 
+        "lat": "-26.1392", 
+        "continent": "AF"
+    }, 
+    "Sialkot": {
+        "ident": "OPST", 
+        "lon": "74.3638916016", 
+        "iso_country": "PK", 
+        "elevation_ft": "837", 
+        "iso_region": "PK-PB", 
+        "lat": "32.5355567932", 
+        "continent": "AS"
+    }, 
+    "Bratislava": {
+        "ident": "LZIB", 
+        "lon": "17.2126998901", 
+        "iso_country": "SK", 
+        "elevation_ft": "436", 
+        "iso_region": "SK-BL", 
+        "lat": "48.1702003479", 
+        "continent": "EU"
+    }, 
+    "Abuja": {
+        "ident": "DNAA", 
+        "lon": "7.2631697655", 
+        "iso_country": "NG", 
+        "elevation_ft": "1123", 
+        "iso_region": "NG-FC", 
+        "lat": "9.0067901611", 
+        "continent": "AF"
+    }, 
+    "Santiago": {
+        "ident": "SCEL", 
+        "lon": "-70.7857971191", 
+        "iso_country": "CL", 
+        "elevation_ft": "1555", 
+        "iso_region": "CL-RM", 
+        "lat": "-33.3930015564", 
+        "continent": "SA"
+    }, 
+    "Tulsa": {
+        "ident": "KTUL", 
+        "lon": "-95.8880996704", 
+        "iso_country": "US", 
+        "elevation_ft": "677", 
+        "iso_region": "US-OK", 
+        "lat": "36.1983985901", 
+        "continent": "NA"
+    }, 
+    "Sacramento": {
+        "ident": "KSMF", 
+        "lon": "-121.591003418", 
+        "iso_country": "US", 
+        "elevation_ft": "27", 
+        "iso_region": "US-CA", 
+        "lat": "38.695400238", 
+        "continent": "NA"
+    }, 
+    "Berlin": {
+        "ident": "EDDT", 
+        "lon": "13.2876996994", 
+        "iso_country": "DE", 
+        "elevation_ft": "122", 
+        "iso_region": "DE-BE", 
+        "lat": "52.5597000122", 
+        "continent": "EU"
+    }, 
+    "Bloomington/Normal": {
+        "ident": "KBMI", 
+        "lon": "-88.91590118", 
+        "iso_country": "US", 
+        "elevation_ft": "871", 
+        "iso_region": "US-IL", 
+        "lat": "40.47710037", 
+        "continent": "NA"
+    }, 
+    "Treviso": {
+        "ident": "LIPH", 
+        "lon": "12.1943998337", 
+        "iso_country": "IT", 
+        "elevation_ft": "59", 
+        "iso_region": "IT-34", 
+        "lat": "45.648399353", 
+        "continent": "EU"
+    }, 
+    "Raleigh/Durham": {
+        "ident": "KRDU", 
+        "lon": "-78.7874984741", 
+        "iso_country": "US", 
+        "elevation_ft": "435", 
+        "iso_region": "US-NC", 
+        "lat": "35.8776016235", 
+        "continent": "NA"
+    }, 
+    "Havana": {
+        "ident": "MUHA", 
+        "lon": "-82.4091033936", 
+        "iso_country": "CU", 
+        "elevation_ft": "210", 
+        "iso_region": "CU-03", 
+        "lat": "22.989200592", 
+        "continent": "NA"
+    }, 
+    "Saginaw": {
+        "ident": "KMBS", 
+        "lon": "-84.0795974731", 
+        "iso_country": "US", 
+        "elevation_ft": "668", 
+        "iso_region": "US-MI", 
+        "lat": "43.5329017639", 
+        "continent": "NA"
+    }, 
+    "Hag\u00e5t\u00f1a, Guam International Airport": {
+        "ident": "PGUM", 
+        "lon": "144.796005249", 
+        "iso_country": "GU", 
+        "elevation_ft": "298", 
+        "iso_region": "GU-U-A", 
+        "lat": "13.4834003448", 
+        "continent": "OC"
+    }, 
+    "Aalborg": {
+        "ident": "EKYT", 
+        "lon": "9.8492431641", 
+        "iso_country": "DK", 
+        "elevation_ft": "10", 
+        "iso_region": "DK-81", 
+        "lat": "57.0927589138", 
+        "continent": "EU"
+    }, 
+    "Dublin": {
+        "ident": "EIDW", 
+        "lon": "-6.270070076", 
+        "iso_country": "IE", 
+        "elevation_ft": "242", 
+        "iso_region": "IE-D", 
+        "lat": "53.4212989807", 
+        "continent": "EU"
+    }, 
+    "Lexington": {
+        "ident": "KLEX", 
+        "lon": "-84.6059036255", 
+        "iso_country": "US", 
+        "elevation_ft": "979", 
+        "iso_region": "US-KY", 
+        "lat": "38.0364990234", 
+        "continent": "NA"
+    }, 
+    "Cedar Rapids": {
+        "ident": "KCID", 
+        "lon": "-91.7108001709", 
+        "iso_country": "US", 
+        "elevation_ft": "869", 
+        "iso_region": "US-IA", 
+        "lat": "41.8847007751", 
+        "continent": "NA"
+    }, 
+    "Jebel Ali": {
+        "ident": "OMDW", 
+        "lon": "55.161389", 
+        "iso_country": "AE", 
+        "elevation_ft": "114", 
+        "iso_region": "AE-DU", 
+        "lat": "24.896356", 
+        "continent": "AS"
+    }, 
+    "Santiago de Compostela": {
+        "ident": "LEST", 
+        "lon": "-8.415140152", 
+        "iso_country": "ES", 
+        "elevation_ft": "1213", 
+        "iso_region": "ES-GA", 
+        "lat": "42.8963012695", 
+        "continent": "EU"
+    }, 
+    "Isparta": {
+        "ident": "LTFC", 
+        "lon": "30.3684005737", 
+        "iso_country": "TR", 
+        "elevation_ft": "2835", 
+        "iso_region": "TR-32", 
+        "lat": "37.8554000854", 
+        "continent": "AS"
+    }, 
+    "Warner Robins": {
+        "ident": "KWRB", 
+        "lon": "-83.5919036865", 
+        "iso_country": "US", 
+        "elevation_ft": "294", 
+        "iso_region": "US-GA", 
+        "lat": "32.6400985718", 
+        "continent": "NA"
+    }, 
+    "Luqa": {
+        "ident": "LMML", 
+        "lon": "14.4775", 
+        "iso_country": "MT", 
+        "elevation_ft": "300", 
+        "iso_region": "MT-25", 
+        "lat": "35.857498", 
+        "continent": "EU"
+    }, 
+    "Washington": {
+        "ident": "KIAD", 
+        "lon": "-77.45580292", 
+        "iso_country": "US", 
+        "elevation_ft": "312", 
+        "iso_region": "US-DC", 
+        "lat": "38.94449997", 
+        "continent": "NA"
+    }, 
+    "Minneapolis": {
+        "ident": "KMSP", 
+        "lon": "-93.2218017578", 
+        "iso_country": "US", 
+        "elevation_ft": "841", 
+        "iso_region": "US-MN", 
+        "lat": "44.8819999695", 
+        "continent": "NA"
+    }, 
+    "Manchester": {
+        "ident": "KMHT", 
+        "lon": "-71.4356994629", 
+        "iso_country": "US", 
+        "elevation_ft": "266", 
+        "iso_region": "US-NH", 
+        "lat": "42.932598114", 
+        "continent": "NA"
+    }, 
+    "Taipa": {
+        "ident": "VMMC", 
+        "lon": "113.5920028687", 
+        "iso_country": "MO", 
+        "elevation_ft": "20", 
+        "iso_region": "MO-U-A", 
+        "lat": "22.1495990753", 
+        "continent": "AS"
+    }, 
+    "San Juan": {
+        "ident": "TJSJ", 
+        "lon": "-66.0018005371", 
+        "iso_country": "PR", 
+        "elevation_ft": "9", 
+        "iso_region": "PR-U-A", 
+        "lat": "18.4393997192", 
+        "continent": "NA"
+    }, 
+    "Gulfport": {
+        "ident": "KGPT", 
+        "lon": "-89.070098877", 
+        "iso_country": "US", 
+        "elevation_ft": "28", 
+        "iso_region": "US-MS", 
+        "lat": "30.4073009491", 
+        "continent": "NA"
+    }, 
+    "Jackson": {
+        "ident": "KJAN", 
+        "lon": "-90.0758972168", 
+        "iso_country": "US", 
+        "elevation_ft": "346", 
+        "iso_region": "US-MS", 
+        "lat": "32.3111991882", 
+        "continent": "NA"
+    }, 
+    "Knoxville": {
+        "ident": "KTYS", 
+        "lon": "-83.9940033", 
+        "iso_country": "US", 
+        "elevation_ft": "981", 
+        "iso_region": "US-TN", 
+        "lat": "35.81100082", 
+        "continent": "NA"
+    }, 
+    "Jeju City": {
+        "ident": "RKPC", 
+        "lon": "126.4929962158", 
+        "iso_country": "KR", 
+        "elevation_ft": "118", 
+        "iso_region": "KR-49", 
+        "lat": "33.5112991333", 
+        "continent": "AS"
+    }, 
+    "Ramstein": {
+        "ident": "ETAR", 
+        "lon": "7.600279808", 
+        "iso_country": "DE", 
+        "elevation_ft": "776", 
+        "iso_region": "DE-RP", 
+        "lat": "49.4369010925", 
+        "continent": "EU"
+    }, 
+    "Sydney": {
+        "ident": "YSSY", 
+        "lon": "151.1770019531", 
+        "iso_country": "AU", 
+        "elevation_ft": "21", 
+        "iso_region": "AU-NSW", 
+        "lat": "-33.9460983276", 
+        "continent": "OC"
+    }, 
+    "Amman": {
+        "ident": "OJAI", 
+        "lon": "35.9931983948", 
+        "iso_country": "JO", 
+        "elevation_ft": "2395", 
+        "iso_region": "JO-AM", 
+        "lat": "31.7226009369", 
+        "continent": "AS"
+    }, 
+    "Toulouse/Blagnac": {
+        "ident": "LFBO", 
+        "lon": "1.36382", 
+        "iso_country": "FR", 
+        "elevation_ft": "499", 
+        "iso_region": "FR-N", 
+        "lat": "43.629101", 
+        "continent": "EU"
+    }, 
+    "Ufa": {
+        "ident": "UWUU", 
+        "lon": "55.8744010925", 
+        "iso_country": "RU", 
+        "elevation_ft": "449", 
+        "iso_region": "RU-BA", 
+        "lat": "54.5574989319", 
+        "continent": "EU"
+    }, 
+    "Del Rio": {
+        "ident": "KDLF", 
+        "lon": "-100.777999878", 
+        "iso_country": "US", 
+        "elevation_ft": "1082", 
+        "iso_region": "US-TX", 
+        "lat": "29.359500885", 
+        "continent": "NA"
+    }, 
+    "New Orleans": {
+        "ident": "KMSY", 
+        "lon": "-90.2580032349", 
+        "iso_country": "US", 
+        "elevation_ft": "4", 
+        "iso_region": "US-LA", 
+        "lat": "29.9934005737", 
+        "continent": "NA"
+    }, 
+    "Leeds": {
+        "ident": "EGNM", 
+        "lon": "-1.6605700254", 
+        "iso_country": "GB", 
+        "elevation_ft": "681", 
+        "iso_region": "GB-ENG", 
+        "lat": "53.8658981323", 
+        "continent": "EU"
+    }, 
+    "Los Angeles": {
+        "ident": "US-0306", 
+        "lon": "0", 
+        "iso_country": "US", 
+        "elevation_ft": "", 
+        "iso_region": "US-CA", 
+        "lat": "0", 
+        "continent": "NA"
+    }, 
+    "Karaganda": {
+        "ident": "UAKK", 
+        "lon": "73.3343963623", 
+        "iso_country": "KZ", 
+        "elevation_ft": "1765", 
+        "iso_region": "KZ-KAR", 
+        "lat": "49.6707992554", 
+        "continent": "AS"
+    }, 
+    "Tehran": {
+        "ident": "OIII", 
+        "lon": "51.3134002686", 
+        "iso_country": "IR", 
+        "elevation_ft": "3962", 
+        "iso_region": "IR-07", 
+        "lat": "35.689201355", 
+        "continent": "AS"
+    }, 
+    "Bangalore": {
+        "ident": "VOBL", 
+        "lon": "77.706299", 
+        "iso_country": "IN", 
+        "elevation_ft": "3000", 
+        "iso_region": "IN-KA", 
+        "lat": "13.1979", 
+        "continent": "AS"
+    }, 
+    "San Antonio": {
+        "ident": "KSAT", 
+        "lon": "-98.4698028564", 
+        "iso_country": "US", 
+        "elevation_ft": "809", 
+        "iso_region": "US-TX", 
+        "lat": "29.533700943", 
+        "continent": "NA"
+    }, 
+    "Naha": {
+        "ident": "ROAH", 
+        "lon": "127.646003723", 
+        "iso_country": "JP", 
+        "elevation_ft": "12", 
+        "iso_region": "JP-47", 
+        "lat": "26.1958007812", 
+        "continent": "AS"
+    }, 
+    "Southampton": {
+        "ident": "EGHI", 
+        "lon": "-1.3567999601", 
+        "iso_country": "GB", 
+        "elevation_ft": "44", 
+        "iso_region": "GB-ENG", 
+        "lat": "50.9502983093", 
+        "continent": "EU"
+    }, 
+    "Xiamen": {
+        "ident": "ZSAM", 
+        "lon": "118.1279983521", 
+        "iso_country": "CN", 
+        "elevation_ft": "59", 
+        "iso_region": "CN-35", 
+        "lat": "24.5440006256", 
+        "continent": "AS"
+    }, 
+    "Stavanger": {
+        "ident": "ENZV", 
+        "lon": "5.6377801895", 
+        "iso_country": "NO", 
+        "elevation_ft": "29", 
+        "iso_region": "NO-11", 
+        "lat": "58.876701354", 
+        "continent": "EU"
+    }, 
+    "Alicante": {
+        "ident": "LEAL", 
+        "lon": "-0.5581560135", 
+        "iso_country": "ES", 
+        "elevation_ft": "142", 
+        "iso_region": "ES-V", 
+        "lat": "38.2821998596", 
+        "continent": "EU"
+    }, 
+    "Krak\u00f3w": {
+        "ident": "EPKK", 
+        "lon": "19.7847995758", 
+        "iso_country": "PL", 
+        "elevation_ft": "791", 
+        "iso_region": "PL-MA", 
+        "lat": "50.0777015686", 
+        "continent": "EU"
+    }, 
+    "Thessaloniki": {
+        "ident": "LGTS", 
+        "lon": "22.9708995819", 
+        "iso_country": "GR", 
+        "elevation_ft": "22", 
+        "iso_region": "GR-54", 
+        "lat": "40.5196990967", 
+        "continent": "EU"
+    }, 
+    "Newport News": {
+        "ident": "KPHF", 
+        "lon": "-76.49299622", 
+        "iso_country": "US", 
+        "elevation_ft": "42", 
+        "iso_region": "US-VA", 
+        "lat": "37.13190079", 
+        "continent": "NA"
+    }, 
+    "Ponta Delgada": {
+        "ident": "LPPD", 
+        "lon": "-25.6979007721", 
+        "iso_country": "PT", 
+        "elevation_ft": "259", 
+        "iso_region": "PT-20", 
+        "lat": "37.7411994934", 
+        "continent": "EU"
+    }, 
+    "Bras\u00edlia": {
+        "ident": "SBBR", 
+        "lon": "-47.9208335876", 
+        "iso_country": "BR", 
+        "elevation_ft": "3497", 
+        "iso_region": "BR-DF", 
+        "lat": "-15.8691673279", 
+        "continent": "SA"
+    }, 
+    "Brize Norton": {
+        "ident": "EGVN", 
+        "lon": "-1.58362", 
+        "iso_country": "GB", 
+        "elevation_ft": "288", 
+        "iso_region": "GB-ENG", 
+        "lat": "51.75", 
+        "continent": "EU"
+    }, 
+    "Fuzhou": {
+        "ident": "ZSFZ", 
+        "lon": "119.6630020142", 
+        "iso_country": "CN", 
+        "elevation_ft": "46", 
+        "iso_region": "CN-35", 
+        "lat": "25.9351005554", 
+        "continent": "AS"
+    }, 
+    "Acapulco": {
+        "ident": "MMAA", 
+        "lon": "-99.7539978027", 
+        "iso_country": "MX", 
+        "elevation_ft": "16", 
+        "iso_region": "MX-GRO", 
+        "lat": "16.7570991516", 
+        "continent": "NA"
+    }, 
+    "Tacoma": {
+        "ident": "KTCM", 
+        "lon": "-122.475997925", 
+        "iso_country": "US", 
+        "elevation_ft": "322", 
+        "iso_region": "US-WA", 
+        "lat": "47.1376991272", 
+        "continent": "NA"
+    }, 
+    "Aberdeen": {
+        "ident": "EGPD", 
+        "lon": "-2.1977798939", 
+        "iso_country": "GB", 
+        "elevation_ft": "215", 
+        "iso_region": "GB-SCT", 
+        "lat": "57.2019004822", 
+        "continent": "EU"
+    }, 
+    "Santa Clara": {
+        "ident": "MSLP", 
+        "lon": "-89.055702", 
+        "iso_country": "SV", 
+        "elevation_ft": "101", 
+        "iso_region": "SV-PA", 
+        "lat": "13.4409", 
+        "continent": "NA"
+    }, 
+    "Fairbanks": {
+        "ident": "PAFA", 
+        "lon": "-147.8560028", 
+        "iso_country": "US", 
+        "elevation_ft": "439", 
+        "iso_region": "US-AK", 
+        "lat": "64.81510162", 
+        "continent": "NA"
+    }, 
+    "Hanoi": {
+        "ident": "VVNB", 
+        "lon": "105.8069992065", 
+        "iso_country": "VN", 
+        "elevation_ft": "39", 
+        "iso_region": "VN-15", 
+        "lat": "21.221200943", 
+        "continent": "AS"
+    }, 
+    "Luxembourg": {
+        "ident": "ELLX", 
+        "lon": "6.211520195", 
+        "iso_country": "LU", 
+        "elevation_ft": "1234", 
+        "iso_region": "LU-L", 
+        "lat": "49.6265983582", 
+        "continent": "EU"
+    }, 
+    "Alamogordo": {
+        "ident": "KHMN", 
+        "lon": "-106.107002258", 
+        "iso_country": "US", 
+        "elevation_ft": "4093", 
+        "iso_region": "US-NM", 
+        "lat": "32.8525009155", 
+        "continent": "NA"
+    }, 
+    "Santa Ana": {
+        "ident": "KSNA", 
+        "lon": "-117.8679962", 
+        "iso_country": "US", 
+        "elevation_ft": "56", 
+        "iso_region": "US-CA", 
+        "lat": "33.67570114", 
+        "continent": "NA"
+    }, 
+    "Lompoc": {
+        "ident": "KVBG", 
+        "lon": "-120.583999634", 
+        "iso_country": "US", 
+        "elevation_ft": "369", 
+        "iso_region": "US-CA", 
+        "lat": "34.7373008728", 
+        "continent": "NA"
+    }, 
+    "Muscat": {
+        "ident": "OOMS", 
+        "lon": "58.2844009399", 
+        "iso_country": "OM", 
+        "elevation_ft": "48", 
+        "iso_region": "OM-MA", 
+        "lat": "23.5932998657", 
+        "continent": "AS"
+    }, 
+    "Al Masna'ah": {
+        "ident": "OM-0004", 
+        "lon": "57.4875", 
+        "iso_country": "OM", 
+        "elevation_ft": "349", 
+        "iso_region": "OM-BA", 
+        "lat": "23.640556", 
+        "continent": "AS"
+    }, 
+    "Camp Springs": {
+        "ident": "KADW", 
+        "lon": "-76.8669967651", 
+        "iso_country": "US", 
+        "elevation_ft": "280", 
+        "iso_region": "US-MD", 
+        "lat": "38.810798645", 
+        "continent": "NA"
+    }, 
+    "Lajes": {
+        "ident": "LPLA", 
+        "lon": "-27.0907993317", 
+        "iso_country": "PT", 
+        "elevation_ft": "180", 
+        "iso_region": "PT-20", 
+        "lat": "38.7617988586", 
+        "continent": "EU"
+    }, 
+    "Chicago": {
+        "ident": "KORD", 
+        "lon": "-87.90480042", 
+        "iso_country": "US", 
+        "elevation_ft": "672", 
+        "iso_region": "US-IL", 
+        "lat": "41.97859955", 
+        "continent": "NA"
+    }, 
+    "Khartoum": {
+        "ident": "HSSS", 
+        "lon": "32.5531997681", 
+        "iso_country": "SD", 
+        "elevation_ft": "1265", 
+        "iso_region": "SD-03", 
+        "lat": "15.5895004272", 
+        "continent": "AF"
+    }, 
+    "Asheville": {
+        "ident": "KAVL", 
+        "lon": "-82.5418014526", 
+        "iso_country": "US", 
+        "elevation_ft": "2165", 
+        "iso_region": "US-NC", 
+        "lat": "35.4361991882", 
+        "continent": "NA"
+    }, 
+    "Marietta": {
+        "ident": "KMGE", 
+        "lon": "-84.51629639", 
+        "iso_country": "US", 
+        "elevation_ft": "1068", 
+        "iso_region": "US-GA", 
+        "lat": "33.91540146", 
+        "continent": "NA"
+    }, 
+    "Trondheim": {
+        "ident": "ENVA", 
+        "lon": "10.9239998", 
+        "iso_country": "NO", 
+        "elevation_ft": "56", 
+        "iso_region": "NO-17", 
+        "lat": "63.4578018", 
+        "continent": "EU"
+    }, 
+    "Tocumen": {
+        "ident": "MPTO", 
+        "lon": "-79.3834991455", 
+        "iso_country": "PA", 
+        "elevation_ft": "135", 
+        "iso_region": "PA-8", 
+        "lat": "9.0713596344", 
+        "continent": "NA"
+    }, 
+    "Cagliari": {
+        "ident": "LIEE", 
+        "lon": "9.0542802811", 
+        "iso_country": "IT", 
+        "elevation_ft": "13", 
+        "iso_region": "IT-88", 
+        "lat": "39.251499176", 
+        "continent": "EU"
+    }, 
+    "Toronto": {
+        "ident": "CYYZ", 
+        "lon": "-79.6305999756", 
+        "iso_country": "CA", 
+        "elevation_ft": "569", 
+        "iso_region": "CA-ON", 
+        "lat": "43.6772003174", 
+        "continent": "NA"
+    }, 
+    "Algiers": {
+        "ident": "DAAG", 
+        "lon": "3.2154099941", 
+        "iso_country": "DZ", 
+        "elevation_ft": "82", 
+        "iso_region": "DZ-35", 
+        "lat": "36.6910018921", 
+        "continent": "AF"
+    }, 
+    "Tokyo": {
+        "ident": "RJTT", 
+        "lon": "139.7799987793", 
+        "iso_country": "JP", 
+        "elevation_ft": "35", 
+        "iso_region": "JP-13", 
+        "lat": "35.5522994995", 
+        "continent": "AS"
+    }, 
+    "Islamabad": {
+        "ident": "PK-0001", 
+        "lon": "72.851614", 
+        "iso_country": "PK", 
+        "elevation_ft": "646", 
+        "iso_region": "PK-PB", 
+        "lat": "33.560714", 
+        "continent": "AS"
+    }, 
+    "Chitose / Tomakomai": {
+        "ident": "RJCC", 
+        "lon": "141.6920013428", 
+        "iso_country": "JP", 
+        "elevation_ft": "82", 
+        "iso_region": "JP-01", 
+        "lat": "42.7751998901", 
+        "continent": "AS"
+    }, 
+    "Wellington": {
+        "ident": "NZWN", 
+        "lon": "174.804992676", 
+        "iso_country": "NZ", 
+        "elevation_ft": "41", 
+        "iso_region": "NZ-WGN", 
+        "lat": "-41.3272018433", 
+        "continent": "OC"
+    }, 
+    "Calicut": {
+        "ident": "VOCL", 
+        "lon": "75.9552993774", 
+        "iso_country": "IN", 
+        "elevation_ft": "342", 
+        "iso_region": "IN-KL", 
+        "lat": "11.1367998123", 
+        "continent": "AS"
+    }, 
+    "Stockholm": {
+        "ident": "ESSA", 
+        "lon": "17.9186000824", 
+        "iso_country": "SE", 
+        "elevation_ft": "137", 
+        "iso_region": "SE-AB", 
+        "lat": "59.6519012451", 
+        "continent": "EU"
+    }, 
+    "Sharjah": {
+        "ident": "OMSJ", 
+        "lon": "55.51720047", 
+        "iso_country": "AE", 
+        "elevation_ft": "111", 
+        "iso_region": "AE-SH", 
+        "lat": "25.3285999298", 
+        "continent": "AS"
+    }, 
+    "Tel Aviv": {
+        "ident": "LLBG", 
+        "lon": "34.8866996765", 
+        "iso_country": "IL", 
+        "elevation_ft": "135", 
+        "iso_region": "IL-M", 
+        "lat": "32.0113983154", 
+        "continent": "AS"
+    }, 
+    "Joplin": {
+        "ident": "KJLN", 
+        "lon": "-94.498298645", 
+        "iso_country": "US", 
+        "elevation_ft": "981", 
+        "iso_region": "US-MO", 
+        "lat": "37.1517982483", 
+        "continent": "NA"
+    }, 
+    "Donetsk": {
+        "ident": "UKCC", 
+        "lon": "37.7397003174", 
+        "iso_country": "UA", 
+        "elevation_ft": "791", 
+        "iso_region": "UA-14", 
+        "lat": "48.073600769", 
+        "continent": "EU"
+    }, 
+    "Jeddah": {
+        "ident": "OEJN", 
+        "lon": "39.15650177", 
+        "iso_country": "SA", 
+        "elevation_ft": "48", 
+        "iso_region": "SA-02", 
+        "lat": "21.679599762", 
+        "continent": "AS"
+    }, 
+    "Cleveland": {
+        "ident": "KCLE", 
+        "lon": "-81.8498001099", 
+        "iso_country": "US", 
+        "elevation_ft": "791", 
+        "iso_region": "US-OH", 
+        "lat": "41.4117012024", 
+        "continent": "NA"
+    }, 
+    "Pozna\u0144": {
+        "ident": "EPPO", 
+        "lon": "16.8262996674", 
+        "iso_country": "PL", 
+        "elevation_ft": "308", 
+        "iso_region": "PL-WP", 
+        "lat": "52.4210014343", 
+        "continent": "EU"
+    }, 
+    "Fort Smith": {
+        "ident": "KFSM", 
+        "lon": "-94.367401123", 
+        "iso_country": "US", 
+        "elevation_ft": "469", 
+        "iso_region": "US-AR", 
+        "lat": "35.3366012573", 
+        "continent": "NA"
+    }, 
+    "Venice": {
+        "ident": "LIPZ", 
+        "lon": "12.3519", 
+        "iso_country": "IT", 
+        "elevation_ft": "7", 
+        "iso_region": "IT-34", 
+        "lat": "45.505299", 
+        "continent": "EU"
+    }, 
+    "Tianjin": {
+        "ident": "ZBTJ", 
+        "lon": "117.346000671", 
+        "iso_country": "CN", 
+        "elevation_ft": "10", 
+        "iso_region": "CN-12", 
+        "lat": "39.1244010925", 
+        "continent": "AS"
+    }, 
+    "Edwards": {
+        "ident": "KEDW", 
+        "lon": "-117.884003", 
+        "iso_country": "US", 
+        "elevation_ft": "2312", 
+        "iso_region": "US-CA", 
+        "lat": "34.905399", 
+        "continent": "NA"
+    }, 
+    "Athens": {
+        "ident": "LGAV", 
+        "lon": "23.9444999695", 
+        "iso_country": "GR", 
+        "elevation_ft": "308", 
+        "iso_region": "GR-A1", 
+        "lat": "37.9364013672", 
+        "continent": "EU"
+    }, 
+    "Port Moresby": {
+        "ident": "AYPY", 
+        "lon": "147.2200012207", 
+        "iso_country": "PG", 
+        "elevation_ft": "146", 
+        "iso_region": "PG-NCD", 
+        "lat": "-9.4433803558", 
+        "continent": "OC"
+    }, 
+    "Quito": {
+        "ident": "SEQM", 
+        "lon": "-78.3575", 
+        "iso_country": "EC", 
+        "elevation_ft": "7841", 
+        "iso_region": "EC-P", 
+        "lat": "-0.1291666667", 
+        "continent": "SA"
+    }, 
+    "Tallinn": {
+        "ident": "EETN", 
+        "lon": "24.8327999115", 
+        "iso_country": "EE", 
+        "elevation_ft": "131", 
+        "iso_region": "EE-37", 
+        "lat": "59.4132995605", 
+        "continent": "EU"
+    }, 
+    "S\u00e3o Paulo": {
+        "ident": "SBSP", 
+        "lon": "-46.6563873291", 
+        "iso_country": "BR", 
+        "elevation_ft": "2631", 
+        "iso_region": "BR-SP", 
+        "lat": "-23.6261100769", 
+        "continent": "SA"
+    }, 
+    "Montevideo": {
+        "ident": "SUMU", 
+        "lon": "-56.0307998657", 
+        "iso_country": "UY", 
+        "elevation_ft": "105", 
+        "iso_region": "UY-MO", 
+        "lat": "-34.8384017944", 
+        "continent": "SA"
+    }, 
+    "Gothenburg": {
+        "ident": "ESGG", 
+        "lon": "12.279800415", 
+        "iso_country": "SE", 
+        "elevation_ft": "506", 
+        "iso_region": "SE-Q", 
+        "lat": "57.6627998352", 
+        "continent": "EU"
+    }, 
+    "Hibbing": {
+        "ident": "KHIB", 
+        "lon": "-92.83899689", 
+        "iso_country": "US", 
+        "elevation_ft": "1354", 
+        "iso_region": "US-MN", 
+        "lat": "47.38660049", 
+        "continent": "NA"
+    }, 
+    "Georgetown": {
+        "ident": "MWCR", 
+        "lon": "-81.3576965332", 
+        "iso_country": "KY", 
+        "elevation_ft": "8", 
+        "iso_region": "KY-U-A", 
+        "lat": "19.2928009033", 
+        "continent": "NA"
+    }, 
+    "Norwich": {
+        "ident": "EGSH", 
+        "lon": "1.2827800512", 
+        "iso_country": "GB", 
+        "elevation_ft": "117", 
+        "iso_region": "GB-ENG", 
+        "lat": "52.6758003235", 
+        "continent": "EU"
+    }, 
+    "Huntsville": {
+        "ident": "KHSV", 
+        "lon": "-86.775100708", 
+        "iso_country": "US", 
+        "elevation_ft": "629", 
+        "iso_region": "US-AL", 
+        "lat": "34.6371994019", 
+        "continent": "NA"
+    }, 
+    "Nashville": {
+        "ident": "KBNA", 
+        "lon": "-86.6781997681", 
+        "iso_country": "US", 
+        "elevation_ft": "599", 
+        "iso_region": "US-TN", 
+        "lat": "36.1245002747", 
+        "continent": "NA"
+    }, 
+    "Buenos Aires": {
+        "ident": "SAEZ", 
+        "lon": "-58.5358", 
+        "iso_country": "AR", 
+        "elevation_ft": "67", 
+        "iso_region": "AR-B", 
+        "lat": "-34.8222", 
+        "continent": "SA"
+    }, 
+    "Amarillo": {
+        "ident": "KAMA", 
+        "lon": "-101.7060012817", 
+        "iso_country": "US", 
+        "elevation_ft": "3607", 
+        "iso_region": "US-TX", 
+        "lat": "35.2193984985", 
+        "continent": "NA"
+    }, 
+    "Bangkok": {
+        "ident": "VTBS", 
+        "lon": "100.747001648", 
+        "iso_country": "TH", 
+        "elevation_ft": "5", 
+        "iso_region": "TH-10", 
+        "lat": "13.6810998917", 
+        "continent": "AS"
+    }, 
+    "Mobile": {
+        "ident": "KMOB", 
+        "lon": "-88.2427978516", 
+        "iso_country": "US", 
+        "elevation_ft": "219", 
+        "iso_region": "US-AL", 
+        "lat": "30.6912002563", 
+        "continent": "NA"
+    }, 
+    "Tokoname": {
+        "ident": "RJGG", 
+        "lon": "136.8049926758", 
+        "iso_country": "JP", 
+        "elevation_ft": "15", 
+        "iso_region": "JP-23", 
+        "lat": "34.8583984375", 
+        "continent": "AS"
+    }, 
+    "Nassau": {
+        "ident": "MYNN", 
+        "lon": "-77.4662017822", 
+        "iso_country": "BS", 
+        "elevation_ft": "16", 
+        "iso_region": "BS-NP", 
+        "lat": "25.0389995575", 
+        "continent": "NA"
+    }, 
+    "Puerto Pe\u00f1asco": {
+        "ident": "AMC", 
+        "lon": "-113.305864", 
+        "iso_country": "MX", 
+        "elevation_ft": "71", 
+        "iso_region": "MX-SON", 
+        "lat": "31.351621", 
+        "continent": "NA"
+    }, 
+    "Budapest": {
+        "ident": "LHBP", 
+        "lon": "19.2555999756", 
+        "iso_country": "HU", 
+        "elevation_ft": "495", 
+        "iso_region": "HU-PE", 
+        "lat": "47.4369010925", 
+        "continent": "EU"
+    }, 
+    "Salvador": {
+        "ident": "SBSV", 
+        "lon": "-38.3224983215", 
+        "iso_country": "BR", 
+        "elevation_ft": "64", 
+        "iso_region": "BR-BA", 
+        "lat": "-12.9086112976", 
+        "continent": "SA"
+    }, 
+    "Anchorage": {
+        "ident": "PANC", 
+        "lon": "-149.9960021973", 
+        "iso_country": "US", 
+        "elevation_ft": "152", 
+        "iso_region": "US-AK", 
+        "lat": "61.1744003296", 
+        "continent": "NA"
+    }, 
+    "Mountain Home": {
+        "ident": "KMUO", 
+        "lon": "-115.872002", 
+        "iso_country": "US", 
+        "elevation_ft": "2996", 
+        "iso_region": "US-ID", 
+        "lat": "43.043598", 
+        "continent": "NA"
+    }, 
+    "Bel\u00e9m": {
+        "ident": "SBBE", 
+        "lon": "-48.4762992859", 
+        "iso_country": "BR", 
+        "elevation_ft": "54", 
+        "iso_region": "BR-PA", 
+        "lat": "-1.3792500496", 
+        "continent": "SA"
+    }, 
+    "Kansas City": {
+        "ident": "KMCI", 
+        "lon": "-94.713898", 
+        "iso_country": "US", 
+        "elevation_ft": "1026", 
+        "iso_region": "US-MO", 
+        "lat": "39.2976", 
+        "continent": "NA"
+    }, 
+    "Barcelona": {
+        "ident": "LEBL", 
+        "lon": "2.0784599781", 
+        "iso_country": "ES", 
+        "elevation_ft": "12", 
+        "iso_region": "ES-CT", 
+        "lat": "41.2971000671", 
+        "continent": "EU"
+    }, 
+    "Bristol": {
+        "ident": "EGGD", 
+        "lon": "-2.7190899849", 
+        "iso_country": "GB", 
+        "elevation_ft": "622", 
+        "iso_region": "GB-ENG", 
+        "lat": "51.3827018738", 
+        "continent": "EU"
+    }, 
+    "Glendale": {
+        "ident": "KLUF", 
+        "lon": "-112.383003235", 
+        "iso_country": "US", 
+        "elevation_ft": "1085", 
+        "iso_region": "US-AZ", 
+        "lat": "33.5349998474", 
+        "continent": "NA"
+    }, 
+    "Thiruvananthapuram": {
+        "ident": "VOTV", 
+        "lon": "76.9200973511", 
+        "iso_country": "IN", 
+        "elevation_ft": "15", 
+        "iso_region": "IN-KL", 
+        "lat": "8.4821195602", 
+        "continent": "AS"
+    }, 
+    "Augusta": {
+        "ident": "KAGS", 
+        "lon": "-81.9645004272", 
+        "iso_country": "US", 
+        "elevation_ft": "144", 
+        "iso_region": "US-GA", 
+        "lat": "33.3698997498", 
+        "continent": "NA"
+    }, 
+    "Tijuana": {
+        "ident": "MMTJ", 
+        "lon": "-116.9700012207", 
+        "iso_country": "MX", 
+        "elevation_ft": "489", 
+        "iso_region": "MX-BCN", 
+        "lat": "32.5410995483", 
+        "continent": "NA"
+    }, 
+    "Houston": {
+        "ident": "KIAH", 
+        "lon": "-95.3414001465", 
+        "iso_country": "US", 
+        "elevation_ft": "97", 
+        "iso_region": "US-TX", 
+        "lat": "29.9843997955", 
+        "continent": "NA"
+    }, 
+    "Hampton": {
+        "ident": "KLFI", 
+        "lon": "-76.360496521", 
+        "iso_country": "US", 
+        "elevation_ft": "11", 
+        "iso_region": "US-VA", 
+        "lat": "37.082901001", 
+        "continent": "NA"
+    }, 
+    "Bogota": {
+        "ident": "SKBO", 
+        "lon": "-74.1469", 
+        "iso_country": "CO", 
+        "elevation_ft": "8361", 
+        "iso_region": "CO-CUN", 
+        "lat": "4.70159", 
+        "continent": "SA"
+    }, 
+    "Reno": {
+        "ident": "KRNO", 
+        "lon": "-119.7679977417", 
+        "iso_country": "US", 
+        "elevation_ft": "4415", 
+        "iso_region": "US-NV", 
+        "lat": "39.4990997314", 
+        "continent": "NA"
+    }, 
+    "Lagos": {
+        "ident": "DNMM", 
+        "lon": "3.321160078", 
+        "iso_country": "NG", 
+        "elevation_ft": "135", 
+        "iso_region": "NG-LA", 
+        "lat": "6.5773701668", 
+        "continent": "AF"
+    }, 
+    "Colombo": {
+        "ident": "VCBI", 
+        "lon": "79.8841018677", 
+        "iso_country": "LK", 
+        "elevation_ft": "30", 
+        "iso_region": "LK-1", 
+        "lat": "7.1807599068", 
+        "continent": "AS"
+    }, 
+    "Des Moines": {
+        "ident": "KDSM", 
+        "lon": "-93.6631011963", 
+        "iso_country": "US", 
+        "elevation_ft": "958", 
+        "iso_region": "US-IA", 
+        "lat": "41.5340003967", 
+        "continent": "NA"
+    }, 
+    "Milwaukee": {
+        "ident": "KMKE", 
+        "lon": "-87.8965988159", 
+        "iso_country": "US", 
+        "elevation_ft": "723", 
+        "iso_region": "US-WI", 
+        "lat": "42.9472007751", 
+        "continent": "NA"
+    }, 
+    "Portland": {
+        "ident": "KPWM", 
+        "lon": "-70.30930328", 
+        "iso_country": "US", 
+        "elevation_ft": "76", 
+        "iso_region": "US-ME", 
+        "lat": "43.64619827", 
+        "continent": "NA"
+    }, 
+    "Roanoke": {
+        "ident": "KROA", 
+        "lon": "-79.975402832", 
+        "iso_country": "US", 
+        "elevation_ft": "1175", 
+        "iso_region": "US-VA", 
+        "lat": "37.3255004883", 
+        "continent": "NA"
+    }, 
+    "Oslo": {
+        "ident": "ENGM", 
+        "lon": "11.100399971", 
+        "iso_country": "NO", 
+        "elevation_ft": "681", 
+        "iso_region": "NO-02", 
+        "lat": "60.193901062", 
+        "continent": "EU"
+    }, 
+    "Bremen": {
+        "ident": "EDDW", 
+        "lon": "8.7866697311", 
+        "iso_country": "DE", 
+        "elevation_ft": "14", 
+        "iso_region": "DE-HB", 
+        "lat": "53.0475006104", 
+        "continent": "EU"
+    }, 
+    "San Francisco": {
+        "ident": "KSFO", 
+        "lon": "-122.375", 
+        "iso_country": "US", 
+        "elevation_ft": "13", 
+        "iso_region": "US-CA", 
+        "lat": "37.6189994812", 
+        "continent": "NA"
+    }, 
+    "Shenzhen": {
+        "ident": "ZGSZ", 
+        "lon": "113.8109970093", 
+        "iso_country": "CN", 
+        "elevation_ft": "13", 
+        "iso_region": "CN-44", 
+        "lat": "22.6392993927", 
+        "continent": "AS"
+    }, 
+    "Li\u00e8ge": {
+        "ident": "EBLG", 
+        "lon": "5.4432201385", 
+        "iso_country": "BE", 
+        "elevation_ft": "659", 
+        "iso_region": "BE-WLG", 
+        "lat": "50.6374015808", 
+        "continent": "EU"
+    }, 
+    "Grozny": {
+        "ident": "RU-0035", 
+        "lon": "45.698601", 
+        "iso_country": "RU", 
+        "elevation_ft": "548", 
+        "iso_region": "RU-CE", 
+        "lat": "43.388302", 
+        "continent": "EU"
+    }, 
+    "Basrah": {
+        "ident": "ORMM", 
+        "lon": "47.6621017456", 
+        "iso_country": "IQ", 
+        "elevation_ft": "11", 
+        "iso_region": "IQ-BA", 
+        "lat": "30.5491008759", 
+        "continent": "AS"
+    }, 
+    "Victoria": {
+        "ident": "CYYJ", 
+        "lon": "-123.426002502", 
+        "iso_country": "CA", 
+        "elevation_ft": "63", 
+        "iso_region": "CA-BC", 
+        "lat": "48.646900177", 
+        "continent": "NA"
+    }, 
+    "Baghdad": {
+        "ident": "ORBI", 
+        "lon": "44.2346000671", 
+        "iso_country": "IQ", 
+        "elevation_ft": "114", 
+        "iso_region": "IQ-BG", 
+        "lat": "33.2625007629", 
+        "continent": "AS"
+    }, 
+    "Marysville": {
+        "ident": "KBAB", 
+        "lon": "-121.43699646", 
+        "iso_country": "US", 
+        "elevation_ft": "113", 
+        "iso_region": "US-CA", 
+        "lat": "39.136100769", 
+        "continent": "NA"
+    }, 
+    "Newcastle": {
+        "ident": "EGNT", 
+        "lon": "-1.6916699409", 
+        "iso_country": "GB", 
+        "elevation_ft": "266", 
+        "iso_region": "GB-ENG", 
+        "lat": "55.0374984741", 
+        "continent": "EU"
+    }, 
+    "Tampa": {
+        "ident": "KTPA", 
+        "lon": "-82.533203125", 
+        "iso_country": "US", 
+        "elevation_ft": "26", 
+        "iso_region": "US-FL", 
+        "lat": "27.9755001068", 
+        "continent": "NA"
+    }, 
+    "Fukuoka": {
+        "ident": "RJFF", 
+        "lon": "130.4510040283", 
+        "iso_country": "JP", 
+        "elevation_ft": "32", 
+        "iso_region": "JP-40", 
+        "lat": "33.585899353", 
+        "continent": "AS"
+    }, 
+    "Nuremberg": {
+        "ident": "EDDN", 
+        "lon": "11.0669002533", 
+        "iso_country": "DE", 
+        "elevation_ft": "1046", 
+        "iso_region": "DE-BY", 
+        "lat": "49.4986991882", 
+        "continent": "EU"
+    }, 
+    "Juba": {
+        "ident": "HSSJ", 
+        "lon": "31.6011009216", 
+        "iso_country": "SS", 
+        "elevation_ft": "1513", 
+        "iso_region": "SS-17", 
+        "lat": "4.872010231", 
+        "continent": "AF"
+    }, 
+    "Yekaterinburg": {
+        "ident": "USSS", 
+        "lon": "60.8027000427", 
+        "iso_country": "RU", 
+        "elevation_ft": "764", 
+        "iso_region": "RU-SVE", 
+        "lat": "56.7430992126", 
+        "continent": "AS"
+    }, 
+    "Krasnoyarsk": {
+        "ident": "UNKL", 
+        "lon": "92.4933013916", 
+        "iso_country": "RU", 
+        "elevation_ft": "942", 
+        "iso_region": "RU-KYA", 
+        "lat": "56.1729011536", 
+        "continent": "AS"
+    }, 
+    "Christchurch": {
+        "ident": "NZCH", 
+        "lon": "172.5319976807", 
+        "iso_country": "NZ", 
+        "elevation_ft": "123", 
+        "iso_region": "NZ-CAN", 
+        "lat": "-43.4893989563", 
+        "continent": "OC"
+    }, 
+    "Varna": {
+        "ident": "LBWN", 
+        "lon": "27.8251", 
+        "iso_country": "BG", 
+        "elevation_ft": "230", 
+        "iso_region": "BG-03", 
+        "lat": "43.232101", 
+        "continent": "EU"
+    }, 
+    "Cincinnati": {
+        "ident": "KCVG", 
+        "lon": "-84.6678009033", 
+        "iso_country": "US", 
+        "elevation_ft": "896", 
+        "iso_region": "US-KY", 
+        "lat": "39.0488014221", 
+        "continent": "NA"
+    }, 
+    "Casablanca": {
+        "ident": "GMMN", 
+        "lon": "-7.5899701118", 
+        "iso_country": "MA", 
+        "elevation_ft": "656", 
+        "iso_region": "MA-CAS", 
+        "lat": "33.3675003052", 
+        "continent": "AF"
+    }, 
+    "Aleppo": {
+        "ident": "OSAP", 
+        "lon": "37.2243995667", 
+        "iso_country": "SY", 
+        "elevation_ft": "1276", 
+        "iso_region": "SY-HL", 
+        "lat": "36.1806983948", 
+        "continent": "AS"
+    }, 
+    "Knob Noster": {
+        "ident": "KSZL", 
+        "lon": "-93.5478973389", 
+        "iso_country": "US", 
+        "elevation_ft": "870", 
+        "iso_region": "US-MO", 
+        "lat": "38.7303009033", 
+        "continent": "NA"
+    }, 
+    "Cologne": {
+        "ident": "EDDK", 
+        "lon": "7.1427397728", 
+        "iso_country": "DE", 
+        "elevation_ft": "302", 
+        "iso_region": "DE-NW", 
+        "lat": "50.8658981323", 
+        "continent": "EU"
+    }, 
+    "London": {
+        "ident": "EGSS", 
+        "lon": "0.2349999994", 
+        "iso_country": "GB", 
+        "elevation_ft": "348", 
+        "iso_region": "GB-ENG", 
+        "lat": "51.8849983215", 
+        "continent": "EU"
+    }, 
+    "Chiang Mai": {
+        "ident": "VTCC", 
+        "lon": "98.962600708", 
+        "iso_country": "TH", 
+        "elevation_ft": "1036", 
+        "iso_region": "TH-50", 
+        "lat": "18.7667999268", 
+        "continent": "AS"
+    }, 
+    "Enid": {
+        "ident": "KEND", 
+        "lon": "-97.9164962769", 
+        "iso_country": "US", 
+        "elevation_ft": "1307", 
+        "iso_region": "US-OK", 
+        "lat": "36.3391990662", 
+        "continent": "NA"
+    }, 
+    "Yangon": {
+        "ident": "VYYY", 
+        "lon": "96.1332015991", 
+        "iso_country": "MM", 
+        "elevation_ft": "109", 
+        "iso_region": "MM-06", 
+        "lat": "16.9073009491", 
+        "continent": "AS"
+    }, 
+    "Auckland": {
+        "ident": "NZAA", 
+        "lon": "174.792007446", 
+        "iso_country": "NZ", 
+        "elevation_ft": "23", 
+        "iso_region": "NZ-AUK", 
+        "lat": "-37.0080986023", 
+        "continent": "OC"
+    }, 
+    "M\u00e1laga": {
+        "ident": "LEMG", 
+        "lon": "-4.4991102219", 
+        "iso_country": "ES", 
+        "elevation_ft": "53", 
+        "iso_region": "ES-AN", 
+        "lat": "36.6749000549", 
+        "continent": "EU"
+    }, 
+    "Dakar": {
+        "ident": "GOOY", 
+        "lon": "-17.4902000427", 
+        "iso_country": "SN", 
+        "elevation_ft": "85", 
+        "iso_region": "SN-DK", 
+        "lat": "14.7397003174", 
+        "continent": "AF"
+    }, 
+    "Vienna": {
+        "ident": "LOWW", 
+        "lon": "16.5697002411", 
+        "iso_country": "AT", 
+        "elevation_ft": "600", 
+        "iso_region": "AT-9", 
+        "lat": "48.1102981567", 
+        "continent": "EU"
+    }, 
+    "Edinburgh": {
+        "ident": "EGPH", 
+        "lon": "-3.3724999428", 
+        "iso_country": "GB", 
+        "elevation_ft": "135", 
+        "iso_region": "GB-SCT", 
+        "lat": "55.9500007629", 
+        "continent": "EU"
+    }, 
+    "Seoul": {
+        "ident": "RKSS", 
+        "lon": "126.791000366", 
+        "iso_country": "KR", 
+        "elevation_ft": "58", 
+        "iso_region": "KR-11", 
+        "lat": "37.5583000183", 
+        "continent": "AS"
+    }, 
+    "Singapore": {
+        "ident": "WSSS", 
+        "lon": "103.994003", 
+        "iso_country": "SG", 
+        "elevation_ft": "22", 
+        "iso_region": "SG-04", 
+        "lat": "1.35019", 
+        "continent": "AS"
+    }, 
+    "Pittsburgh": {
+        "ident": "KPIT", 
+        "lon": "-80.23290253", 
+        "iso_country": "US", 
+        "elevation_ft": "1203", 
+        "iso_region": "US-PA", 
+        "lat": "40.49150085", 
+        "continent": "NA"
+    }, 
+    "Peoria": {
+        "ident": "KPIA", 
+        "lon": "-89.6932983398", 
+        "iso_country": "US", 
+        "elevation_ft": "660", 
+        "iso_region": "US-IL", 
+        "lat": "40.6641998291", 
+        "continent": "NA"
+    }, 
+    "Albuquerque": {
+        "ident": "KABQ", 
+        "lon": "-106.6090011597", 
+        "iso_country": "US", 
+        "elevation_ft": "5355", 
+        "iso_region": "US-NM", 
+        "lat": "35.0401992798", 
+        "continent": "NA"
+    }, 
+    "Sioux City": {
+        "ident": "KSUX", 
+        "lon": "-96.38439941", 
+        "iso_country": "US", 
+        "elevation_ft": "1098", 
+        "iso_region": "US-IA", 
+        "lat": "42.40259933", 
+        "continent": "NA"
+    }, 
+    "Katowice": {
+        "ident": "EPKT", 
+        "lon": "19.0799999237", 
+        "iso_country": "PL", 
+        "elevation_ft": "995", 
+        "iso_region": "PL-SL", 
+        "lat": "50.4743003845", 
+        "continent": "EU"
+    }, 
+    "Syracuse": {
+        "ident": "KSYR", 
+        "lon": "-76.106300354", 
+        "iso_country": "US", 
+        "elevation_ft": "421", 
+        "iso_region": "US-NY", 
+        "lat": "43.1111984253", 
+        "continent": "NA"
+    }, 
+    "Bodrum": {
+        "ident": "LTFE", 
+        "lon": "27.6643009186", 
+        "iso_country": "TR", 
+        "elevation_ft": "21", 
+        "iso_region": "TR-48", 
+        "lat": "37.2505989075", 
+        "continent": "AS"
+    }, 
+    "Spokane": {
+        "ident": "KSKA", 
+        "lon": "-117.65599823", 
+        "iso_country": "US", 
+        "elevation_ft": "2461", 
+        "iso_region": "US-WA", 
+        "lat": "47.6151008606", 
+        "continent": "NA"
+    }, 
+    "San Jose": {
+        "ident": "KSJC", 
+        "lon": "-121.9290008545", 
+        "iso_country": "US", 
+        "elevation_ft": "62", 
+        "iso_region": "US-CA", 
+        "lat": "37.3625984192", 
+        "continent": "NA"
+    }, 
+    "Cape Town": {
+        "ident": "FACT", 
+        "lon": "18.6016998291", 
+        "iso_country": "ZA", 
+        "elevation_ft": "151", 
+        "iso_region": "ZA-WC", 
+        "lat": "-33.9648017883", 
+        "continent": "AF"
+    }, 
+    "\u00dcr\u00fcmqi": {
+        "ident": "ZWWW", 
+        "lon": "87.4741973877", 
+        "iso_country": "CN", 
+        "elevation_ft": "2125", 
+        "iso_region": "CN-65", 
+        "lat": "43.9071006775", 
+        "continent": "AS"
+    }, 
+    "Ningbo": {
+        "ident": "ZSNB", 
+        "lon": "121.4619979858", 
+        "iso_country": "CN", 
+        "elevation_ft": "13", 
+        "iso_region": "CN-33", 
+        "lat": "29.8267002106", 
+        "continent": "AS"
+    }, 
+    "N\u00e1poli": {
+        "ident": "LIRN", 
+        "lon": "14.2908000946", 
+        "iso_country": "IT", 
+        "elevation_ft": "294", 
+        "iso_region": "IT-72", 
+        "lat": "40.8860015869", 
+        "continent": "EU"
+    }, 
+    "Gran Canaria Island": {
+        "ident": "GCLP", 
+        "lon": "-15.3865995407", 
+        "iso_country": "ES", 
+        "elevation_ft": "78", 
+        "iso_region": "ES-CN", 
+        "lat": "27.9319000244", 
+        "continent": "EU"
+    }, 
+    "Panama City": {
+        "ident": "KPAM", 
+        "lon": "-85.5754013062", 
+        "iso_country": "US", 
+        "elevation_ft": "17", 
+        "iso_region": "US-FL", 
+        "lat": "30.0695991516", 
+        "continent": "NA"
+    }, 
+    "New Delhi": {
+        "ident": "VIDP", 
+        "lon": "77.1031036377", 
+        "iso_country": "IN", 
+        "elevation_ft": "777", 
+        "iso_region": "IN-DL", 
+        "lat": "28.5664997101", 
+        "continent": "AS"
+    }, 
+    "Lule\u00e5": {
+        "ident": "ESPA", 
+        "lon": "22.1219997406", 
+        "iso_country": "SE", 
+        "elevation_ft": "65", 
+        "iso_region": "SE-BD", 
+        "lat": "65.543800354", 
+        "continent": "EU"
+    }, 
+    "Altus": {
+        "ident": "KLTS", 
+        "lon": "-99.2667007446", 
+        "iso_country": "US", 
+        "elevation_ft": "1382", 
+        "iso_region": "US-OK", 
+        "lat": "34.667098999", 
+        "continent": "NA"
+    }, 
+    "Moline": {
+        "ident": "KMLI", 
+        "lon": "-90.5074996948", 
+        "iso_country": "US", 
+        "elevation_ft": "590", 
+        "iso_region": "US-IL", 
+        "lat": "41.4485015869", 
+        "continent": "NA"
+    }, 
+    "Busan": {
+        "ident": "RKPK", 
+        "lon": "128.93800354", 
+        "iso_country": "KR", 
+        "elevation_ft": "6", 
+        "iso_region": "KR-26", 
+        "lat": "35.1795005798", 
+        "continent": "AS"
+    }, 
+    "Bari": {
+        "ident": "LIBD", 
+        "lon": "16.7605991364", 
+        "iso_country": "IT", 
+        "elevation_ft": "177", 
+        "iso_region": "IT-75", 
+        "lat": "41.1389007568", 
+        "continent": "EU"
+    }, 
+    "Hurghada": {
+        "ident": "HEGN", 
+        "lon": "33.7994003296", 
+        "iso_country": "EG", 
+        "elevation_ft": "52", 
+        "iso_region": "EG-BA", 
+        "lat": "27.1783008575", 
+        "continent": "AF"
+    }, 
+    "Lusaka": {
+        "ident": "FLLS", 
+        "lon": "28.4526004791", 
+        "iso_country": "ZM", 
+        "elevation_ft": "3779", 
+        "iso_region": "ZM-09", 
+        "lat": "-15.3308000565", 
+        "continent": "AF"
+    }, 
+    "Dallas": {
+        "ident": "KDAL", 
+        "lon": "-96.8517990112", 
+        "iso_country": "US", 
+        "elevation_ft": "487", 
+        "iso_region": "US-TX", 
+        "lat": "32.8470993042", 
+        "continent": "NA"
+    }, 
+    "Greenville": {
+        "ident": "KGSP", 
+        "lon": "-82.2189025879", 
+        "iso_country": "US", 
+        "elevation_ft": "964", 
+        "iso_region": "US-SC", 
+        "lat": "34.8956985474", 
+        "continent": "NA"
+    }, 
+    "Heraklion": {
+        "ident": "LGIR", 
+        "lon": "25.1802997589", 
+        "iso_country": "GR", 
+        "elevation_ft": "115", 
+        "iso_region": "GR-91", 
+        "lat": "35.3396987915", 
+        "continent": "EU"
+    }, 
+    "Fairfield": {
+        "ident": "KSUU", 
+        "lon": "-121.9270019531", 
+        "iso_country": "US", 
+        "elevation_ft": "62", 
+        "iso_region": "US-CA", 
+        "lat": "38.2626991272", 
+        "continent": "NA"
+    }, 
+    "Manama": {
+        "ident": "OBBI", 
+        "lon": "50.6335983276", 
+        "iso_country": "BH", 
+        "elevation_ft": "6", 
+        "iso_region": "BH-15", 
+        "lat": "26.2707996368", 
+        "continent": "AS"
+    }, 
+    "Adana": {
+        "ident": "LTAF", 
+        "lon": "35.2803993225", 
+        "iso_country": "TR", 
+        "elevation_ft": "65", 
+        "iso_region": "TR-01", 
+        "lat": "36.9822006226", 
+        "continent": "AS"
+    }, 
+    "Ljubljana": {
+        "ident": "LJLJ", 
+        "lon": "14.4575996399", 
+        "iso_country": "SI", 
+        "elevation_ft": "1273", 
+        "iso_region": "SI-061", 
+        "lat": "46.2237014771", 
+        "continent": "EU"
+    }, 
+    "Fort Lauderdale": {
+        "ident": "KFLL", 
+        "lon": "-80.1527023315", 
+        "iso_country": "US", 
+        "elevation_ft": "9", 
+        "iso_region": "US-FL", 
+        "lat": "26.072599411", 
+        "continent": "NA"
+    }, 
+    "Durban": {
+        "ident": "FALE", 
+        "lon": "31.1197222222", 
+        "iso_country": "ZA", 
+        "elevation_ft": "295", 
+        "iso_region": "ZA-NL", 
+        "lat": "-29.6144444444", 
+        "continent": "AF"
+    }, 
+    "Dayton": {
+        "ident": "KFFO", 
+        "lon": "-84.0483016968", 
+        "iso_country": "US", 
+        "elevation_ft": "823", 
+        "iso_region": "US-OH", 
+        "lat": "39.8260993958", 
+        "continent": "NA"
+    }, 
+    "Baton Rouge": {
+        "ident": "KBTR", 
+        "lon": "-91.14959717", 
+        "iso_country": "US", 
+        "elevation_ft": "70", 
+        "iso_region": "US-LA", 
+        "lat": "30.53319931", 
+        "continent": "NA"
+    }, 
+    "Kunming": {
+        "ident": "ZPPP", 
+        "lon": "102.9291667", 
+        "iso_country": "CN", 
+        "elevation_ft": "6903", 
+        "iso_region": "CN-53", 
+        "lat": "25.1019444", 
+        "continent": "AS"
+    }, 
+    "Mombasa": {
+        "ident": "HKMO", 
+        "lon": "39.5942001343", 
+        "iso_country": "KE", 
+        "elevation_ft": "200", 
+        "iso_region": "KE-300", 
+        "lat": "-4.0348300934", 
+        "continent": "AF"
+    }, 
+    "Billings": {
+        "ident": "KBIL", 
+        "lon": "-108.5429992676", 
+        "iso_country": "US", 
+        "elevation_ft": "3652", 
+        "iso_region": "US-MT", 
+        "lat": "45.8077011108", 
+        "continent": "NA"
+    }, 
+    "Bishkek": {
+        "ident": "UAFM", 
+        "lon": "74.4776000977", 
+        "iso_country": "KG", 
+        "elevation_ft": "2058", 
+        "iso_region": "KG-C", 
+        "lat": "43.0612983704", 
+        "continent": "AS"
+    }, 
+    "Green Bay": {
+        "ident": "KGRB", 
+        "lon": "-88.1296005249", 
+        "iso_country": "US", 
+        "elevation_ft": "695", 
+        "iso_region": "US-WI", 
+        "lat": "44.4850997925", 
+        "continent": "NA"
+    }, 
+    "Prishtina": {
+        "ident": "BKPR", 
+        "lon": "21.035801", 
+        "iso_country": "XK", 
+        "elevation_ft": "1789", 
+        "iso_region": "XK-01", 
+        "lat": "42.5728", 
+        "continent": "EU"
+    }, 
+    "Hannover": {
+        "ident": "EDDV", 
+        "lon": "9.6850795746", 
+        "iso_country": "DE", 
+        "elevation_ft": "183", 
+        "iso_region": "DE-NI", 
+        "lat": "52.461101532", 
+        "continent": "EU"
+    }, 
+    "Sanya": {
+        "ident": "ZJSY", 
+        "lon": "109.4120025635", 
+        "iso_country": "CN", 
+        "elevation_ft": "92", 
+        "iso_region": "CN-46", 
+        "lat": "18.3029003143", 
+        "continent": "AS"
+    }, 
+    "Little Rock": {
+        "ident": "KLIT", 
+        "lon": "-92.2242965698", 
+        "iso_country": "US", 
+        "elevation_ft": "262", 
+        "iso_region": "US-AR", 
+        "lat": "34.7294006348", 
+        "continent": "NA"
+    }, 
+    "Detroit": {
+        "ident": "KDTW", 
+        "lon": "-83.3534011841", 
+        "iso_country": "US", 
+        "elevation_ft": "645", 
+        "iso_region": "US-MI", 
+        "lat": "42.2123985291", 
+        "continent": "NA"
+    }, 
+    "Belleville": {
+        "ident": "KBLV", 
+        "lon": "-89.835197", 
+        "iso_country": "US", 
+        "elevation_ft": "459", 
+        "iso_region": "US-IL", 
+        "lat": "38.5452", 
+        "continent": "NA"
+    }, 
+    "Dalian": {
+        "ident": "ZYTL", 
+        "lon": "121.5390014648", 
+        "iso_country": "CN", 
+        "elevation_ft": "107", 
+        "iso_region": "CN-21", 
+        "lat": "38.9656982422", 
+        "continent": "AS"
+    }, 
+    "Tunis": {
+        "ident": "DTTA", 
+        "lon": "10.2271995544", 
+        "iso_country": "TN", 
+        "elevation_ft": "22", 
+        "iso_region": "TN-11", 
+        "lat": "36.8510017395", 
+        "continent": "AF"
+    }, 
+    "Tripoli": {
+        "ident": "HLLT", 
+        "lon": "13.1590003967", 
+        "iso_country": "LY", 
+        "elevation_ft": "263", 
+        "iso_region": "LY-TB", 
+        "lat": "32.6635017395", 
+        "continent": "AF"
+    }, 
+    "Austin": {
+        "ident": "KAUS", 
+        "lon": "-97.6698989868", 
+        "iso_country": "US", 
+        "elevation_ft": "542", 
+        "iso_region": "US-TX", 
+        "lat": "30.1944999695", 
+        "continent": "NA"
+    }, 
+    "Greensboro": {
+        "ident": "KGSO", 
+        "lon": "-79.9373016357", 
+        "iso_country": "US", 
+        "elevation_ft": "925", 
+        "iso_region": "US-NC", 
+        "lat": "36.0978012085", 
+        "continent": "NA"
+    }, 
+    "Bucharest": {
+        "ident": "LROP", 
+        "lon": "26.1021995544", 
+        "iso_country": "RO", 
+        "elevation_ft": "314", 
+        "iso_region": "RO-B", 
+        "lat": "44.5722007751", 
+        "continent": "EU"
+    }, 
+    "Beijing": {
+        "ident": "ZBNY", 
+        "lon": "116.3880004883", 
+        "iso_country": "CN", 
+        "elevation_ft": "", 
+        "iso_region": "CN-11", 
+        "lat": "39.7827987671", 
+        "continent": "AS"
+    }, 
+    "Damascus": {
+        "ident": "OSDI", 
+        "lon": "36.5155982971", 
+        "iso_country": "SY", 
+        "elevation_ft": "2020", 
+        "iso_region": "SY-DI", 
+        "lat": "33.4114990234", 
+        "continent": "AS"
+    }, 
+    "Hong Kong": {
+        "ident": "VHHH", 
+        "lon": "113.915000916", 
+        "iso_country": "HK", 
+        "elevation_ft": "28", 
+        "iso_region": "HK-U-A", 
+        "lat": "22.3089008331", 
+        "continent": "AS"
+    }, 
+    "Wroc\u0142aw": {
+        "ident": "EPWR", 
+        "lon": "16.885799408", 
+        "iso_country": "PL", 
+        "elevation_ft": "404", 
+        "iso_region": "PL-DS", 
+        "lat": "51.1026992798", 
+        "continent": "EU"
+    }, 
+    "Mumbai": {
+        "ident": "VABB", 
+        "lon": "72.8678970337", 
+        "iso_country": "IN", 
+        "elevation_ft": "39", 
+        "iso_region": "IN-MM", 
+        "lat": "19.0886993408", 
+        "continent": "AS"
+    }, 
+    "Kaohsiung City": {
+        "ident": "RCKH", 
+        "lon": "120.3499984741", 
+        "iso_country": "TW", 
+        "elevation_ft": "31", 
+        "iso_region": "TW-KHH", 
+        "lat": "22.5771007538", 
+        "continent": "AS"
+    }, 
+    "Kagoshima": {
+        "ident": "RJFK", 
+        "lon": "130.7189941406", 
+        "iso_country": "JP", 
+        "elevation_ft": "906", 
+        "iso_region": "JP-46", 
+        "lat": "31.8034000397", 
+        "continent": "AS"
+    }, 
+    "Sofia": {
+        "ident": "LBSF", 
+        "lon": "23.4114360809", 
+        "iso_country": "BG", 
+        "elevation_ft": "1742", 
+        "iso_region": "BG-23", 
+        "lat": "42.6966934204", 
+        "continent": "EU"
+    }, 
+    "Mandalay": {
+        "ident": "VYMD", 
+        "lon": "95.977897644", 
+        "iso_country": "MM", 
+        "elevation_ft": "300", 
+        "iso_region": "MM-04", 
+        "lat": "21.7021999359", 
+        "continent": "AS"
+    }, 
+    "Zhukovsky": {
+        "ident": "UUBW", 
+        "lon": "38.150002", 
+        "iso_country": "RU", 
+        "elevation_ft": "377", 
+        "iso_region": "RU-MOS", 
+        "lat": "55.553299", 
+        "continent": "EU"
+    }, 
+    "Riga": {
+        "ident": "EVRA", 
+        "lon": "23.9710998535", 
+        "iso_country": "LV", 
+        "elevation_ft": "36", 
+        "iso_region": "LV-RIX", 
+        "lat": "56.9235992432", 
+        "continent": "EU"
+    }, 
+    "Kolkata": {
+        "ident": "VECC", 
+        "lon": "88.4467010498", 
+        "iso_country": "IN", 
+        "elevation_ft": "16", 
+        "iso_region": "IN-WB", 
+        "lat": "22.6546993256", 
+        "continent": "AS"
+    }, 
+    "Vancouver": {
+        "ident": "CYVR", 
+        "lon": "-123.183998108", 
+        "iso_country": "CA", 
+        "elevation_ft": "14", 
+        "iso_region": "CA-BC", 
+        "lat": "49.193901062", 
+        "continent": "NA"
+    }, 
+    "Springfield": {
+        "ident": "KSPI", 
+        "lon": "-89.67790222", 
+        "iso_country": "US", 
+        "elevation_ft": "598", 
+        "iso_region": "US-IL", 
+        "lat": "39.84410095", 
+        "continent": "NA"
+    }, 
+    "Geneva": {
+        "ident": "LSGG", 
+        "lon": "6.1089501381", 
+        "iso_country": "CH", 
+        "elevation_ft": "1411", 
+        "iso_region": "CH-GE", 
+        "lat": "46.2380981445", 
+        "continent": "EU"
+    }, 
+    "Cuneo": {
+        "ident": "LIMZ", 
+        "lon": "7.6232199669", 
+        "iso_country": "IT", 
+        "elevation_ft": "1267", 
+        "iso_region": "IT-21", 
+        "lat": "44.547000885", 
+        "continent": "EU"
+    }, 
+    "Ankara": {
+        "ident": "LTAC", 
+        "lon": "32.995098114", 
+        "iso_country": "TR", 
+        "elevation_ft": "3125", 
+        "iso_region": "TR-06", 
+        "lat": "40.1281013489", 
+        "continent": "AS"
+    }, 
+    "Xianyang": {
+        "ident": "ZLXY", 
+        "lon": "108.7519989014", 
+        "iso_country": "CN", 
+        "elevation_ft": "1572", 
+        "iso_region": "CN-61", 
+        "lat": "34.447101593", 
+        "continent": "AS"
+    }, 
+    "Jacksonville": {
+        "ident": "KJAX", 
+        "lon": "-81.6878967285", 
+        "iso_country": "US", 
+        "elevation_ft": "30", 
+        "iso_region": "US-FL", 
+        "lat": "30.4941005707", 
+        "continent": "NA"
+    }, 
+    "Fussa": {
+        "ident": "RJTY", 
+        "lon": "139.3480072021", 
+        "iso_country": "JP", 
+        "elevation_ft": "463", 
+        "iso_region": "JP-13", 
+        "lat": "35.748500824", 
+        "continent": "AS"
+    }, 
+    "Cusco": {
+        "ident": "SPZO", 
+        "lon": "-71.9387969971", 
+        "iso_country": "PE", 
+        "elevation_ft": "10860", 
+        "iso_region": "PE-CUS", 
+        "lat": "-13.5356998444", 
+        "continent": "SA"
+    }, 
+    "Wichita": {
+        "ident": "KICT", 
+        "lon": "-97.4330978394", 
+        "iso_country": "US", 
+        "elevation_ft": "1333", 
+        "iso_region": "US-KS", 
+        "lat": "37.6498985291", 
+        "continent": "NA"
+    }, 
+    "Melbourne": {
+        "ident": "YMML", 
+        "lon": "144.8430023193", 
+        "iso_country": "AU", 
+        "elevation_ft": "434", 
+        "iso_region": "AU-VIC", 
+        "lat": "-37.6733016968", 
+        "continent": "OC"
+    }, 
+    "Minsk": {
+        "ident": "UMMS", 
+        "lon": "28.0307006836", 
+        "iso_country": "BY", 
+        "elevation_ft": "670", 
+        "iso_region": "BY-MI", 
+        "lat": "53.8824996948", 
+        "continent": "EU"
+    }, 
+    "Amsterdam": {
+        "ident": "EHAM", 
+        "lon": "4.7638897896", 
+        "iso_country": "NL", 
+        "elevation_ft": "-11", 
+        "iso_region": "NL-NH", 
+        "lat": "52.3086013794", 
+        "continent": "EU"
+    }, 
+    "Almaty": {
+        "ident": "UAAA", 
+        "lon": "77.0404968262", 
+        "iso_country": "KZ", 
+        "elevation_ft": "2234", 
+        "iso_region": "KZ-ALM", 
+        "lat": "43.3521003723", 
+        "continent": "AS"
+    }, 
+    "Copenhagen": {
+        "ident": "EKCH", 
+        "lon": "12.6560001373", 
+        "iso_country": "DK", 
+        "elevation_ft": "17", 
+        "iso_region": "DK-84", 
+        "lat": "55.6179008484", 
+        "continent": "EU"
+    }, 
+    "Baltimore": {
+        "ident": "KBWI", 
+        "lon": "-76.66829681", 
+        "iso_country": "US", 
+        "elevation_ft": "146", 
+        "iso_region": "US-MD", 
+        "lat": "39.17539978", 
+        "continent": "NA"
+    }, 
+    "Dover": {
+        "ident": "KDOV", 
+        "lon": "-75.46600342", 
+        "iso_country": "US", 
+        "elevation_ft": "24", 
+        "iso_region": "US-DE", 
+        "lat": "39.12950134", 
+        "continent": "NA"
+    }, 
+    "Oakland": {
+        "ident": "KOAK", 
+        "lon": "-122.2210006714", 
+        "iso_country": "US", 
+        "elevation_ft": "9", 
+        "iso_region": "US-CA", 
+        "lat": "37.7212982178", 
+        "continent": "NA"
+    }, 
+    "Guilin City": {
+        "ident": "ZGKL", 
+        "lon": "110.0390014648", 
+        "iso_country": "CN", 
+        "elevation_ft": "570", 
+        "iso_region": "CN-45", 
+        "lat": "25.2180995941", 
+        "continent": "AS"
+    }, 
+    "Chengdu": {
+        "ident": "ZUUU", 
+        "lon": "103.9469985962", 
+        "iso_country": "CN", 
+        "elevation_ft": "1625", 
+        "iso_region": "CN-51", 
+        "lat": "30.5785007477", 
+        "continent": "AS"
+    }, 
+    "Doha": {
+        "ident": "QA-0001", 
+        "lon": "51.608056", 
+        "iso_country": "QA", 
+        "elevation_ft": "13", 
+        "iso_region": "QA-DA", 
+        "lat": "25.273056", 
+        "continent": "AS"
+    }, 
+    "Riyadh": {
+        "ident": "OERK", 
+        "lon": "46.6987991333", 
+        "iso_country": "SA", 
+        "elevation_ft": "2049", 
+        "iso_region": "SA-01", 
+        "lat": "24.9575996399", 
+        "continent": "AS"
+    }, 
+    "Leipzig": {
+        "ident": "EDDP", 
+        "lon": "12.2416000366", 
+        "iso_country": "DE", 
+        "elevation_ft": "465", 
+        "iso_region": "DE-SN", 
+        "lat": "51.4323997498", 
+        "continent": "EU"
+    }, 
+    "Samara": {
+        "ident": "UWWW", 
+        "lon": "50.1642990112", 
+        "iso_country": "RU", 
+        "elevation_ft": "477", 
+        "iso_region": "RU-SAM", 
+        "lat": "53.504901886", 
+        "continent": "EU"
+    }, 
+    "Cardiff": {
+        "ident": "EGFF", 
+        "lon": "-3.3433299065", 
+        "iso_country": "GB", 
+        "elevation_ft": "220", 
+        "iso_region": "GB-WLS", 
+        "lat": "51.3967018127", 
+        "continent": "EU"
+    }, 
+    "Dalaman": {
+        "ident": "LTBS", 
+        "lon": "28.7924995422", 
+        "iso_country": "TR", 
+        "elevation_ft": "20", 
+        "iso_region": "TR-48", 
+        "lat": "36.7131004333", 
+        "continent": "AS"
+    }, 
+    "Moscow": {
+        "ident": "UUWW", 
+        "lon": "37.2615013123", 
+        "iso_country": "RU", 
+        "elevation_ft": "685", 
+        "iso_region": "RU-MOS", 
+        "lat": "55.5914993286", 
+        "continent": "EU"
+    }, 
+    "Warsaw": {
+        "ident": "EPWA", 
+        "lon": "20.9671001434", 
+        "iso_country": "PL", 
+        "elevation_ft": "362", 
+        "iso_region": "PL-MZ", 
+        "lat": "52.1656990051", 
+        "continent": "EU"
+    }
+}

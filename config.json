@@ -4,27 +4,5 @@
   "eye_cascade":"haarcascade_eye.xml",
   "nose_cascade":"Nariz.xml",
   "mouth_cascade":"Mouth.xml",
-  "smile_cascade":"haarcascade_smile.xml",
-  "locations" : {
-    "Vancouver": {
-      "lat": 49.2802092,
-      "lon": -123.1177796
-    },
-    "Edmonton": {
-      "lat": 53.555956,
-      "lon": -113.4807197
-    },
-    "Calgary": {
-      "lat": 51.0489141,
-      "lon": -114.0680675
-    },
-    "Toronto": {
-      "lat": 43.6547581,
-      "lon": -79.3791674
-    },
-    "Montreal": {
-      "lat": 45.5057359,
-      "lon": -73.5675326
-    }
-  }
+  "smile_cascade":"haarcascade_smile.xml"
 }

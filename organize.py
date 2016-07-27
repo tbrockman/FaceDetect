@@ -43,7 +43,6 @@ def writeYesOrNoForImages(yes, path, user_id, images):
 
 def getKeypressResultFromImage(filename, img):
     cv2.namedWindow(filename)
-    print filename, img
     cv2.imshow(filename, img)
     k = cv2.waitKey()
     cv2.destroyWindow(filename)
